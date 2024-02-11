@@ -1,0 +1,55 @@
+body {
+    background: #5F0032;
+  }
+.fullCircle1 {
+    width: 100px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: -120px; left: 0; right: 0; bottom: 0;
+    border-radius: 50%;
+  }
+.fullCircle2 {
+    width: 100px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: 120px; left: 0; right: 0; bottom: 0;
+    border-radius: 50%;
+  }
+.halfCircle1 {
+    width: 50px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: -120px; left: 150px; right: 0; bottom: 0;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+.halfCircle2 {
+    width: 50px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: -120px; left: 250px; right: 0px; bottom: 0;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+.halfCircle3 {
+    width: 50px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: 120px; left: -150px; right: 0; bottom: 0;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
+.halfCircle4 {
+    width: 50px;
+    height: 100px;
+    background: #F180B6;
+    position: absolute;
+    margin: auto; top: 120px; left: -250px; right: 0; bottom: 0;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
