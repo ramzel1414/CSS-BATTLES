@@ -1,0 +1,49 @@
+    body {
+    background: #2bbbf3;
+  }
+  .rect1 {
+    position: absolute;
+    margin: auto;
+    top: 100px; left: 25px;
+    width: 50px;
+    height: 100px;
+    background: #D8EFDD;
+    border-radius: 10px
+  }
+  .rect2 {
+    position: absolute;
+    margin: auto;
+    top: 75px; left: 100px;
+    width: 50px;
+    height: 150px;
+    background: #D8EFDD;
+    border-radius: 10px;
+  }
+  .rect3 {
+    position: absolute;
+    margin: auto;
+    top: 50px; left: 175px;
+    width: 50px;
+    height: 200px;
+    background: #D8EFDD;
+    border-radius: 10px
+  }  
+  .rect4 {
+    position: absolute;
+    margin: auto;
+    top: 75px; left: 250px;
+    width: 50px;
+    height: 150px;
+    background: #D8EFDD;
+    border-radius: 10px;
+  }
+  .rect5 {
+    position: absolute;
+    margin: auto;
+    top: 100px; left: 325px;
+    width: 50px;
+    height: 100px;
+    background: #D8EFDD;
+    border-radius: 10px
+  }
+  
