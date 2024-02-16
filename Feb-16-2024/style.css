@@ -1,0 +1,43 @@
+ body {
+    background: #024817
+  }
+  .small1 {
+    width: 40px;
+    height: 20px;
+    background: #CCE9D3;
+    position: absolute;
+    margin: auto;
+    left: 0px; right: 0px; top: 0px; bottom: 170px;
+  }
+  .small2 {
+    width: 40px;
+    height: 20px;
+    background: #CCE9D3;
+    position: absolute;
+    margin: auto;
+    left: 0px; right: 0px; top: 170px; bottom: 0px;
+  }
+  .medium1 {
+    width: 120px;
+    height: 40px;
+    background: #CCE9D3;
+    position: absolute;
+    margin: auto;
+    left: 0px; right: 0px; top: 0px; bottom: 110px;
+  }
+  .medium2 {
+    width: 120px;
+    height: 40px;
+    background: #CCE9D3;
+    position: absolute;
+    margin: auto;
+    left: 0px; right: 0px; top: 110px; bottom: 0px;
+  }
+  .large {
+    width: 200px;
+    height: 40px;
+    background: #CCE9D3;
+    position: absolute;
+    margin: auto;
+    left: 0px; right: 0px; top: 0px; bottom: 0px;
+  }
