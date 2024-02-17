@@ -1,0 +1,74 @@
+body {
+    background: #b8b4cc;
+    margin: 0px;
+  }
+  .dia1 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 100px; left: 0px; right: 100px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia2 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 100px; left: 100px; right: 0px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia3 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 0px; left: 0px; right: 200px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia4 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 0px; left: 0px; right: 0px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia5 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 0px; left: 200px; right: 0px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia6 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 100px; bottom: 0px; left: 0px; right: 100px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
+  .dia7 {
+    width: 50px;
+    height: 50px;
+    background: #453867;
+    position: absolute;
+    margin: auto;
+    top: 100px; bottom: 0px; left: 100px; right: 0px;
+    transform: rotate(45deg);
+    border-radius: 10px;
+  }
