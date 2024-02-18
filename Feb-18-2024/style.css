@@ -1,0 +1,69 @@
+  body {
+    margin: 0px;
+    background: #8B0051;
+  }
+  .backC1 {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(to bottom, #F74444 50%, #FCDDEB 50%);
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 100px; bottom: 0px;
+    border-radius: 50%
+  }
+  .backC2 {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(to bottom, #FCDDEB 50%, #F74444 50%);
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 100px; right: 0px; bottom: 0px;
+    border-radius: 50%
+  }
+  .frontC1 {
+    width: 80px;
+    height: 80px;
+    background: #8B0051;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 100px; bottom: 0px;
+    border-radius: 50%
+  }
+  .frontC2 {
+    width: 80px;
+    height: 80px;
+    background: #8B0051;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 100px; right: 0px; bottom: 0px;
+    border-radius: 50%
+  }
+  .sumpayCenter {
+    width: 20px;
+    height: 65px;
+    transform: rotate(-15deg);
+    border-radius: 160px;
+    background: #F74444;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 0px; bottom: 0px;
+  }
+  .sumpayLeft {
+    width: 20px;
+    height: 20px;
+    border-radius: 160px;
+    background: #FCDDEB;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 198px; bottom: 0px;
+  }
+
+  .sumpayRight {
+    width: 20px;
+    height: 20px;
+    border-radius: 160px;
+    background: #F74444;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 199px; right: 0px; bottom: 0px;
+  }
