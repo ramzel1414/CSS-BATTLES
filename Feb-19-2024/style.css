@@ -1,0 +1,41 @@
+body {
+  background: #f49fc7;
+  margin: 0;
+}
+.tri1 {
+  width: 320px;
+  height: 320px;
+  background: #810070;
+  position: absolute;
+  margin: auto;
+  top: 250px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  transform: rotate(45deg)
+}
+.tri2 {
+  width: 280px;
+  height: 280px;
+  background: #F49FC7;
+  position: absolute;
+  margin: auto;
+  top: 300px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  transform: rotate(45deg)
+}
+.tri3 {
+  width: 200px;
+  height: 200px;
+  background: #810070;
+  position: absolute;
+  margin: auto;
+  top: 315px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  transform: rotate(45deg)
+}
+
