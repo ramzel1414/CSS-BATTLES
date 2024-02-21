@@ -1,0 +1,74 @@
+
+  body {
+    background:#ACDDF9;
+    margin: 0px;
+  }
+  .sim {
+    width: 200px;
+    height: 125px;
+    background: #0A6B91;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; bottom: 0px; right: 0px;
+  }
+  .simOffset {
+    width: 25px;
+    height: 60px;
+    background: #ACDDF9;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 190px; bottom: 100px; right: 0px;
+    transform: rotate(135deg);
+  }
+  .inSim1 {
+    width: 25px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; bottom: 40px; right: 125px;
+    border-top-left-radius: 10px;
+  }
+  .inSim2 {
+    width: 25px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 40px; left: 0px; bottom: 0px; right: 125px;
+    border-bottom-left-radius: 10px;
+  }
+  .inSim3 {
+    width: 40px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; bottom: 40px; right: 50px;
+  }
+  .inSim4 {
+    width: 40px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 40px; left: 0px; bottom: 0px; right: 50px;
+  }
+  .inSim5 {
+    width: 25px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 50px; bottom: 40px; right: 25px;
+    border-top-right-radius: 10px;
+  }
+  .inSim6 {
+    width: 25px;
+    height: 35px;
+    background: #acddf9;
+    position: absolute;
+    margin: auto;
+    top: 40px; left: 50px; bottom: 0px; right: 25px;
+    border-bottom-right-radius: 10px;
+  }
