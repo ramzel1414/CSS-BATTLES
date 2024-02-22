@@ -1,0 +1,82 @@
+body {
+    background: #00232b;
+    margin: 0px;
+  }
+  .OutCircle1 {
+    width: 100px;
+    height: 100px;
+    background: #9ED7F8;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; bottom: 120px; right: 0px;
+  }
+  .OutCircle2 {
+    width: 100px;
+    height: 100px;
+    background: #9ED7F8;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80px; left: 0px; bottom: 0px; right: 200px;
+  }
+  .OutCircle3 {
+    width: 100px;
+    height: 100px;
+    background: #9ED7F8;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80px; left: 200px; bottom: 0px; right: 0px;
+  }
+  .InCircle3 {
+    width: 60px;
+    height: 60px;
+    background: #0D2328;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80px; left: 200px; bottom: 0px; right: 0px;
+  }
+  .InCircle2 {
+    width: 60px;
+    height: 60px;
+    background: #0D2328;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80px; left: 0px; bottom: 0px; right: 200px;
+  }
+  .InCircle1 {
+    width: 60px;
+    height: 60px;
+    background: #0D2328;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; bottom: 120px; right: 0px;
+  }
+  .stand1 {
+    width: 20px;
+    height: 180px;
+    background: #9ED7F8;
+    position: absolute;
+    margin: auto;
+    top: 120px; left: 0px; bottom: 0px; right: 0px;
+  }
+  .stand2 {
+    width: 20px;
+    height: 80px;
+    background: #9ED7F8;
+    position: absolute;
+    margin: auto;
+    top: 220px; left: 0px; bottom: 0px; right: 200px;
+  }
+  .stand3 {
+    width: 20px;
+    height: 80px;
+    background: #9ED7F8;
+    position: absolute;
+    margin: auto;
+    top: 220px; left: 200px; bottom: 0px; right: 0px;
+  }
