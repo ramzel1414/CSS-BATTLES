@@ -1,0 +1,165 @@
+body {
+    background: #9ED7F8;
+  }
+  .keyboard {
+    width: 300px;
+    height: 120px;
+    background: #277292;
+    position: absolute;
+    margin: auto;
+    top: 00px; left: 0px; right: 0px; bottom: 0px;
+    border-radius: 20px;
+  }
+  .keyLong {
+    width: 160px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 70px; left: 0px; right: 0px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval1 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 70px; left: 0px; right: 230px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval2 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 230px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval3 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -70px; left: 0px; right: 230px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval4 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 230px; right: 0px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval5 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -70px; left: 230px; right: 0px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyOval6 {
+    width: 40px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 70px; left: 230px; right: 0px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyCircle1 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 140px; bottom: 70px;
+    border-radius: 25px;
+  }
+  .keyCircle2 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 70px; bottom: 70px;
+    border-radius: 25px;
+  }
+  .keyCircle3 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 0px; bottom: 70px;
+    border-radius: 25px;
+  }
+  .keyCircle4 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: -70px; bottom: 70px;
+    border-radius: 25px;
+  }
+  .keyCircle5 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: -140px; bottom: 70px;
+    border-radius: 25px;
+  }
+  .keyCircle6 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 140px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyCircle7 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 70px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyCircle8 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 0px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyCircle9 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: -70px; bottom: 0px;
+    border-radius: 25px;
+  }
+  .keyCircle10 {
+    width: 20px;
+    height: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: -140px; bottom: 0px;
+    border-radius: 25px;
+  }
