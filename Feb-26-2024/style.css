@@ -1,0 +1,90 @@
+
+  body {
+    background: #FEFF89;
+    margin: 0px;
+  }
+  .rect {
+    width: 200px;
+    height: 200px;
+    background: #F59426;
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+  }
+  .circle1 {
+    width: 30px;
+    height: 30px;
+    background: #8A0A06;
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+  .circle2 {
+    width: 30px;
+    height: 30px;
+    background: #8A0A06;
+    position: absolute;
+    margin: auto;
+    top: -130px;
+    left: -130px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+  .circle3 {
+    width: 30px;
+    height: 30px;
+    background: #8A0A06;
+    position: absolute;
+    margin: auto;
+    top: 130px;
+    left: 130px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+  .circle4 {
+    width: 30px;
+    height: 30px;
+    background: #8A0A06;
+    position: absolute;
+    margin: auto;
+    top: 130px;
+    left: -130px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+  .circle5 {
+    width: 30px;
+    height: 30px;
+    background: #8A0A06;
+    position: absolute;
+    margin: auto;
+    top: -130px;
+    left: 130px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+  .bigCircle {
+    width: 100px;
+    height: 100px;
+    background: #FEFF89;
+    position: absolute;
+    margin: auto;
+    top: -0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 50%;
+  }
+
+
