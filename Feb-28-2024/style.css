@@ -1,0 +1,100 @@
+
+  body {
+    margin: 0px;
+    background: #0c6da2;
+  }
+  
+  .horizontal1 {
+    width: 260px;
+    height: 90px;
+    background: #ACDDF9;
+    position: absolute;
+    margin: auto;
+    top: 210px; bottom: 0px; left: 0px; right: 140px; 
+  }
+  .horizontal2 {
+    width: 260px;
+    height: 90px;
+    background: #ACDDF9;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 210px; left: 140px; right: 0px; 
+  }
+  .vertical {
+    width: 260px;
+    height: 120px;
+    background: #ACDDF9;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 0px; left: 0px; right: 0px; 
+    transform: rotate(90deg);
+  }
+  .in1 {
+    width: 180px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 180px; left: 220px; right: 0px; 
+  }
+  .in2 {
+    width: 80px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 120px; left:60px; right: 0px; 
+    transform: rotate(90deg);
+  }
+  .in3 {
+    width: 80px;
+    height: 22px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 60px; left: 0px; right: 0px; 
+  }
+  .in4 {
+    width: 120px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 0px; bottom: 180px; left: 0px; right: 61px; 
+    transform: rotate(90deg);
+  }
+  .bot1 {
+    width: 180px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 180px; bottom: 0px; left: 0px; right: 220px; 
+  }
+  .bot2 {
+    width: 80px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 120px; bottom: 0px; left: 0px; right: 60px; 
+    transform: rotate(90deg);
+  }
+  .bot3 {
+    width: 80px;
+    height: 22px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 60px; bottom: 0px; left: 0px; right: 0px; 
+  }
+  .bot4 {
+    width: 120px;
+    height: 20px;
+    background: #0C6DA2;
+    position: absolute;
+    margin: auto;
+    top: 180px; bottom: 0px; left: 59px; right: 0px; 
+    transform: rotate(90deg);
+  }
+
