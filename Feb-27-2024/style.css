@@ -1,0 +1,42 @@
+
+  body {
+    background: #2E0040;
+    margin: 0px;
+  }
+  .circle1 {
+    width: 100px;
+    height: 100px;
+    background: #D3B1D6;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 0px; bottom: 100px;
+  }
+  .circle2 {
+    width: 100px;
+    height: 100px;
+    background: #D3B1D6;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 100px; left: 0px; right: 0px; bottom: 0px;
+  }
+  .circle3 {
+    width: 100px;
+    height: 100px;
+    background: #A94EA4;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 100px; bottom: 0px;
+  }
+  .circle4 {
+    width: 100px;
+    height: 100px;
+    background: #A94EA4;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 100px; right: 0px; bottom: 0px;
+  }
+
