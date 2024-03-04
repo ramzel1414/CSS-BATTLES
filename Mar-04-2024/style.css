@@ -1,0 +1,40 @@
+  body {
+    background: #3A2A5D;
+    margin: 0px;
+  }
+  .rect1 {
+    width: 180px;
+    height: 30px;
+    background: #BBB2DB;
+    margin: auto;
+    position: absolute;
+    top: -150px; left: 0px; bottom: 0px; right: 0px;
+  }
+  .outCirc {
+    width: 180px;
+    height: 120px;
+    background: #BBB2DB;
+    margin: auto;
+    position: absolute;
+    top: 60px; left: 0px; bottom: 0px; right: 0px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  .inCirc {
+    width: 120px;
+    height: 60px;
+    background: #3A2A5D;
+    margin: auto;
+    position: absolute;
+    top: 60px; left: 0px; bottom: 0px; right: 0px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  .way {
+    width: 50px;
+    height: 30px;
+    background: #3A2A5D;
+    margin: auto;
+    position: absolute;
+    top: 30px; left: -150px; bottom: 0px; right: 0px;
+  }
