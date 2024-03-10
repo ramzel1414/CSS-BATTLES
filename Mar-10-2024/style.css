@@ -1,0 +1,40 @@
+
+  body {
+    background: #F48B26;
+    margin: 0px;
+  }
+  .rect {
+    width: 180px;
+    height: 180px;
+    background: #FFF;
+    position: absolute;
+    margin: auto;
+    top: 120px; bottom: 0px; left: 0px; right: 0px;
+  }
+  .outerCircle {
+    width: 100px;
+    height: 100px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -60px; bottom: 0px; left: 0px; right: 0px;
+    border-radius: 50%;
+  }
+  .innerCircle {
+    width: 60px;
+    height: 60px;
+    background: #FFF;
+    position: absolute;
+    margin: auto;
+    top: -60px; bottom: 0px; left: 0px; right: 0px;
+    border-radius: 50%;
+  }
+  .topCircle {
+    width: 30px;
+    height: 30px;
+    background: #FFF;
+    position: absolute;
+    margin: auto;
+    top: -190px; bottom: 0px; left: 0px; right: 0px;
+    border-radius: 50%;  
+  }
