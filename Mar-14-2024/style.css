@@ -1,0 +1,42 @@
+
+  body {
+    margin: 0px;
+    background: #7E2926;
+  }
+  .triangle1 {
+    width: 0px;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent; 
+    border-top: 100px solid #FEFF92;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 0px; right: 0px; bottom: 0px;
+  }
+  .triangle2 {
+    width: 0px;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent; 
+    border-top: 100px solid #FEFF92;
+    position: absolute;
+    margin: auto;
+    top: 200px; left: 0px; right: 0px; bottom: 0px;
+    transform: rotate(180deg);
+  }
+  .triangleLeft {
+    width:75px;
+    height: 400px;
+    background: #D2934B;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: -75px; right: 0px; bottom: 0px;
+    transform: rotate(180deg);
+  }
+  .triangleRight {
+    width:75px;
+    height: 400px;
+    background: #DEB365;
+    position: absolute;
+    margin: auto;
+    top: 0px; left: 75px; right: 0px; bottom: 0px;
+    transform: rotate(180deg);
+  }
