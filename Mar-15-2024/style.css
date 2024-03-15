@@ -1,0 +1,33 @@
+  body {
+    background: #FFFFCD;
+    margin: 0px;
+  }
+  .triangle {
+    width: 70px;
+    height: 0px;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-bottom: 160px solid #E78320;
+    position: absolute;
+    margin: auto;
+    top: -40px; left: 0px; bottom: 0px; right: 0px;
+  }
+  .oval1 {
+    height: 20px;
+    width: 200px;
+    position: absolute;
+    margin: auto;
+    top: 140px; left: 0px; bottom: 0px; right: 0px;
+    background: #EDAF38;
+    border-radius: 25px;
+  }
+  .oval2 {
+    height: 20px;
+    width: 240px;
+    position: absolute;
+    margin: auto;
+    top: 180px; left: 0px; bottom: 0px; right: 0px;
+    background: #F1D31D;
+    border-radius: 25px;
+  }
+
