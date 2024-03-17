@@ -1,0 +1,46 @@
+  body {
+    background: #d5edfc;
+  }
+  .ovalOut {
+    width: 300px;
+    height: 150px;
+    background: #277292;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 150px;
+  }
+  .ovalIn {
+    width: 250px;
+    height: 100px;
+    background: #7791b6;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 150px;
+  }
+  .ovalBack {
+    width: 200px;
+    height: 50px;
+    background: #d5edfc;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 150px;
+  }
+  .rectTop {
+    width: 100px;
+    height: 75px; 
+    position: absolute;
+    margin: auto;
+    top: -125; left: 0; bottom: 0; right: 0;
+    background: #95B6E4;
+  }
+  .rectBot {
+    width: 100px;
+    height: 75px; 
+    position: absolute;
+    margin: auto;
+    top: 125; left: 0; bottom: 0; right: 0;
+    background: #95B6E4;
+  }
