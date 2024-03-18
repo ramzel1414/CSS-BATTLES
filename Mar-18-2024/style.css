@@ -1,0 +1,30 @@
+  body {
+    background: #c31c1d;
+  }
+  .trapz {
+    width: 120px;
+    height: 0px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 160px solid #660301;
+  }
+  .cross1 {
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    margin: auto;
+    top: 128; left: 0; bottom: 0; right: 0;
+    background: #C31C1D;
+  }
+  .cross2 {
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    margin: auto;
+    top: 128; left: 0; bottom: 0; right: 0;
+    background: #C31C1D;
+    transform: rotate(90deg);
+  }
