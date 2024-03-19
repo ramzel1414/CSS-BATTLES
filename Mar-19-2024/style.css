@@ -1,0 +1,116 @@
+  body {
+    background: #E0DBF0;
+  }
+  .post1 {
+    width: 25px;
+    height: 140px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -175; bottom: 0; right: 0; 
+  }
+  .post1-v1 {
+    width: 5px;
+    height: 12px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -175; bottom: 0; right: 0;
+  }
+  .post1-v2 {
+    width: 5px;
+    height: 12px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -175; bottom: 0; right: 0;
+  }
+  .post1-h1 {
+    width: 25px;
+    height: 10px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -170; left: -175; bottom: 0; right: 0;
+  }
+  .post1-h2 {
+    width: 25px;
+    height: 10px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 170; left: -175; bottom: 0; right: 0;
+  } 
+  .post2 {
+    width: 25px;
+    height: 140px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 175; bottom: 0; right: 0; 
+  }
+  .post2-v1 {
+    width: 5px;
+    height: 12px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 175; bottom: 0; right: 0;
+  }
+  
+  .post2-v2 {
+    width: 5px;
+    height: 12px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 175; bottom: 0; right: 0;
+  }
+  .post2-h1 {
+    width: 25px;
+    height: 10px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -170; left: 175; bottom: 0; right: 0;
+  }
+  .post2-h2 {
+    width: 25px;
+    height: 10px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 170; left: 175; bottom: 0; right: 0;
+  } 
+  .gate-right1 {
+    width: 50px;
+    height: 100px;
+    background: #BBB2DB;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -100; bottom: 0; right: 0; 
+  }
+ .gate-left1 {
+    width: 50px;
+    height: 100px;
+    background: #BBB2DB;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 100; bottom: 0; right: 0; 
+  }
+  .gate-right2 {
+    width: 10px;
+    height: 100px;
+    background: #BBB2DB;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -20; bottom: 0; right: 0; 
+  } 
+  .gate-left2 {
+    width: 10px;
+    height: 100px;
+    background: #BBB2DB;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 20; bottom: 0; right: 0; 
+  } 
