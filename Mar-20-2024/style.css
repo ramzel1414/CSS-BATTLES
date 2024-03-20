@@ -1,0 +1,33 @@
+body {
+  background: #42230c;
+}
+.background {
+  width: 250px;
+  height: 160px;
+  background: #8b673a;
+  position: absolute;
+  margin: auto;
+  top: 0; left: 0; bottom: 0; right: 0;
+  border-top-left-radius: 160px;
+  border-top-right-radius: 160px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.head {
+  width: 80px;
+  height: 80px;
+  background: #42230C;
+  position: absolute;
+  margin: auto;
+  top: -40; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+}
+.body {
+  width: 80px;
+  height: 80px;
+  background: #42230C;
+  position: absolute;
+  margin: auto;
+  top: 160; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+}
