@@ -1,0 +1,47 @@
+  body {
+    background: #301E53;
+  }
+  .trapz {
+    width: 220px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 40px solid #766D94;
+    position: absolute;
+    margin: auto;
+    top: -110; left: 0; right: 0; bottom: 0;
+  }
+  .box-left {
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -180; right: 0; bottom: 0;
+    background: #A6A0BE;
+  }
+  .box-right {
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 180; right: 0; bottom: 0;
+    background: #A6A0BE;
+  }
+  .home-body {
+    width: 90px;
+    height: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: #A6A0BE;
+  }
+  .home-roof {
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    margin: auto;
+    top: 100; left: 0; right: 0; bottom: 0;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-top: 50px solid #A6A0BE;
+  }
