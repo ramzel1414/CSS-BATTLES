@@ -1,0 +1,40 @@
+  body {
+    background: #6c1715;
+  }
+  
+  .triangle {
+    width: 0px;
+    height: 10px;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 0; bottom: 0; right: 0;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-top: 85px solid #C8393A;
+  }
+  .outer-circle {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: #C8393A;
+    margin: auto;
+    top: -120; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .inner-circle {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    background: #6c1715;
+    margin: auto;
+    top: -120; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rectangle {
+    width: 20px;
+    height: 60px;
+    position: absolute;
+    background: #C8393A;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
