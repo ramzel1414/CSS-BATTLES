@@ -1,0 +1,40 @@
+  body {
+    background: #05476C;
+  }
+  .finger-right {
+    width: 100px;
+    height: 200px;
+    background: #2BBBF3;
+    position: absolute;
+    margin: auto;
+    top: 100; left: -140; bottom: 0; right: 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+  .finger-left {
+    width: 100px;
+    height: 200px;
+    background: #2BBBF3;
+    position: absolute;
+    margin: auto;
+    top: -100; left: 140; bottom: 0; right: 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    transform: rotate(180deg);
+  }
+  .joint-right {
+    width: 100px;
+    height: 50px;
+    background: #CEEDFF;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -140; bottom: 0; right: 0;
+  }
+  .joint-left {
+    width: 100px;
+    height: 50px;
+    background: #CEEDFF;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 140; bottom: 0; right: 0;
+  }
