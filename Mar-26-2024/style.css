@@ -1,0 +1,56 @@
+  body {
+    background: #FCDDEB;
+  }
+  .triangle {
+    width: 0px;
+    height: 0px;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-top: 70px solid #EF5CA5;
+    position: absolute;
+    margin: auto;
+    top: 70; bottom: 0; left: 0; right: 0;
+  }
+  .triangle-rect {
+    position: absolute;
+    margin: auto;
+    top: -20; bottom: 0; left: 0; right: 0;
+    width: 140px;
+    height: 20px;
+    background: #EF5CA5;
+  }
+  .triangle2 {
+    width: 0px;
+    height: 0px;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-top: 70px solid #D5007F;
+    position: absolute;
+    margin: auto;
+    top: 112; bottom: 0; left: 0; right: 0;
+  }
+  .triangle-rect2 {
+    position: absolute;
+    margin: auto;
+    top: 20; bottom: 0; left: 0; right: 0;
+    width: 140px;
+    height: 22px;
+    background: #D5007F;
+  }
+  .circle {
+    width: 140px;
+    height: 140px;
+    background: #D5007F;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -40; left: 0; bottom: 0; right: 0;
+  }
+  .rectangle-V {
+    width: 40px;
+    height: 140px;
+    background: #F5A9CD;
+    position: absolute;
+    margin: auto;
+    top: -40; left: 0; bottom: 0; right: 0;
+  }

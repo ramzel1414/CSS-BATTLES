@@ -6,7 +6,8 @@
 
 - there are no restraints and I can use any resources I have.
 
-- I finished 52 days (Feb.1 - Mar.23) before starting a youtube https://youtube.com/playlist?list=PL_ipmtWEXw9YE6TdWQbbvDcYwwLlxUtgC&si=6RZUCRO10jYr8NCB
+- I finished 52 days (Feb.1 - Mar.23) before starting a youtube.
+- youtube link - https://youtube.com/playlist?list=PL_ipmtWEXw9YE6TdWQbbvDcYwwLlxUtgC&si=6RZUCRO10jYr8NCB
 
 | Streak |
 | --- |    
