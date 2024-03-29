@@ -1,0 +1,45 @@
+
+  body {
+    background: #504371;
+  }
+  .diamondOut {
+    width: 150px;
+    height: 150px;
+    background: #A6A0BE;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+    transform: rotate(45deg);
+  }
+  .diamondIn {
+    width: 90px;
+    height: 90px;
+    background: #504371;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+    transform: rotate(45deg);
+  }
+  .horizontal {
+    width: 100%;
+    height: 30px;
+    background: #A6A0BE;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  .vertical {
+    width: 100%;
+    height: 30px;
+    background: #A6A0BE;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform: rotate(90deg);
+  }
