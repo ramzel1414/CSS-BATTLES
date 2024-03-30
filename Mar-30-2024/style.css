@@ -1,0 +1,75 @@
+  body {
+    background: #DBBEDF;
+  }
+  .center-rect {
+    width: 90px;
+    height: 120px;
+    background: #81008F;
+    position: absolute;
+    margin :auto;
+    top: 0; left: 0; right: 0; bottom: 0;
+  }
+  .top-rect {
+    width: 80px;
+    height: 120px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: -240; left: 170; right: 0; bottom: 0;
+  }
+  .bot-rect {
+    width: 80px;
+    height: 120px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: 240; left: -170; right: 0; bottom: 0;
+  }
+  .bar-left1 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: -100; left: -170; right: 0; bottom: 0;
+  }
+  .bar-left2 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: -20; left: -170; right: 0; bottom: 0;
+  }
+  .bar-left3 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: 60; left: -170; right: 0; bottom: 0;
+  }
+  .bar-right1 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: 100; left: 170; right: 0; bottom: 0;
+  }
+  .bar-right2 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: 20; left: 170; right: 0; bottom: 0;
+  }
+  .bar-right3 {
+    width: 80px;
+    height: 20px;
+    background: #81008F;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 170; right: 0; bottom: 0;
+  }
