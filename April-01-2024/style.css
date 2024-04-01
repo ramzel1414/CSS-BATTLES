@@ -1,0 +1,38 @@
+  body {
+    background: #0a6190;
+  }
+  .diamond {
+    width: 140px;
+    height: 140px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+    transform: rotate(45deg);
+  }
+  .diamond-small1 {
+    width: 30px;
+    height: 30px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: -250; right: 0;
+    transform: rotate(45deg);
+  }
+  .diamond-small2 {
+    width: 30px;
+    height: 30px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 250; right: 0;
+    transform: rotate(45deg);
+  }
+  .horiz {
+    width: 250px;
+    height: 40px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+  }
