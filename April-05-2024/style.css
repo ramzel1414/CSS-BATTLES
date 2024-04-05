@@ -1,0 +1,108 @@
+  body {
+    background: #631E1D;
+  }
+  .mid-rect {
+    width: 30px;
+    height: 30px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; right: 0; bottom: 0;
+  }
+  .right-F {
+    width: 15px;
+    height: 135px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -105; left: -105; right: 0; bottom: 0;
+  }
+  .right-F-1 {
+    width: 75px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -75; left: -165; right: 0; bottom: 0;
+  }
+  .right-F-2 {
+    width: 75px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 15; left: -165; right: 0; bottom: 0;
+  }
+  .left-F {
+    width: 15px;
+    height: 135px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 105; left: 105; right: 0; bottom: 0;
+  }
+  .left-F-1 {
+    width: 75px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 75; left: 165; right: 0; bottom: 0;
+  }
+  .left-F-2 {
+    width: 75px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -15; left: 165; right: 0; bottom: 0;
+  }
+  .top-F {
+    width: 135px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -105; left: 105; right: 0; bottom: 0;
+  }
+  .top-F-1 {
+    width: 15px;
+    height: 75px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -165; left: -15; right: 0; bottom: 0;
+  }
+  .top-F-2 {
+    width: 15px;
+    height: 75px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: -165; left: 75; right: 0; bottom: 0;
+  }
+  .bot-F {
+    width: 135px;
+    height: 15px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 105; left: -105; right: 0; bottom: 0;
+  }
+  .bot-F-1 {
+    width: 15px;
+    height: 75px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 165; left: 15; right: 0; bottom: 0;
+  }
+  .bot-F-2 {
+    width: 15px;
+    height: 75px;
+    background: #F16B4A;
+    position: absolute;
+    margin: auto;
+    top: 165; left: -75; right: 0; bottom: 0;
+  }
+  
