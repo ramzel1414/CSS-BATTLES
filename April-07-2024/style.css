@@ -1,0 +1,66 @@
+  body {
+    background: #CCC9DB;
+    height: 100vh;
+    width: 100vh;
+  }
+  .rect-out {
+    width: 280px;
+    height: 120px;
+    background: #6F5AAF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 25px;
+  }
+  .rect-frame {
+    width: 180px;
+    height: 120px;
+    background: #200043;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .rect-in {
+    width: 160px;
+    height: 100px;
+    background: #9D8EC9;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .cicle-1 {
+    width: 30px;
+    height: 30px;
+    background: #200043;
+    position: absolute;
+    margin: auto;
+    top: -70; left: -230; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .cicle-2 {
+    width: 30px;
+    height: 30px;
+    background: #200043;
+    position: absolute;
+    margin: auto;
+    top: 70; left: -230; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .cicle-3 {
+    width: 30px;
+    height: 30px;
+    background: #200043;
+    position: absolute;
+    margin: auto;
+    top: -70; left: 230; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .cicle-4 {
+    width: 30px;
+    height: 30px;
+    background: #200043;
+    position: absolute;
+    margin: auto;
+    top: 70; left: 230; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
