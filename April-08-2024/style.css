@@ -1,0 +1,88 @@
+  body {
+    background: #010038;
+  }
+  .rect1 {
+    width: 30px;
+    height: 100px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -200; left: -300; bottom: 0; right: 0;
+  }
+  .circle1 {
+    width: 60px;
+    height: 60px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -60; left: -300; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rect2 {
+    width: 30px;
+    height: 100px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -200; left: 0; bottom: 0; right: 0;
+  }
+  .circle2 {
+    width: 60px;
+    height: 60px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rect3 {
+    width: 30px;
+    height: 100px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -200; left: 300; bottom: 0; right: 0;
+  }
+  .circle3 {
+    width: 60px;
+    height: 60px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 300; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rect4 {
+    width: 30px;
+    height: 100px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 200; left: -150; bottom: 0; right: 0;
+  }
+  .circle4 {
+    width: 60px;
+    height: 60px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 60; left: -150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rect5 {
+    width: 30px;
+    height: 100px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 200; left: 150; bottom: 0; right: 0;
+  }
+  .circle5 {
+    width: 60px;
+    height: 60px;
+    background: #857DA1;
+    position: absolute;
+    margin: auto;
+    top: 60; left: 150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
