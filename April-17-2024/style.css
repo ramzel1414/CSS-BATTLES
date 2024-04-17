@@ -1,0 +1,26 @@
+  body {
+    background: #EA6B62;
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    background: #512B2A;
+    position: absolute;
+    top: 0; left: 0;
+  }
+  .rect1 {
+    width: 150px;
+    height: 150px;
+    background: #512B2A;
+    position: absolute;
+    top: 0; left: 0;
+  }
+  .rect2 {
+    width: 150px;
+    height: 150px;
+    background: #512B2A;
+    position: absolute;
+    top: 0; left: 250;
+    margin: auto;
+    
+  }
