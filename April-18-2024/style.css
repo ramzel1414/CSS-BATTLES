@@ -1,0 +1,30 @@
+  body {
+    background: #611B3F;
+  }
+  .circle {
+    width: 100px;
+    height: 100px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .top {
+    width: 200px;
+    height: 100px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -200; left:200; bottom: 0; right: 0;
+    border-bottom-left-radius: 80px;
+  }
+  .bottom {
+    width: 200px;
+    height: 100px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 200; left: -200; bottom: 0; right: 0;
+    border-top-right-radius: 80px;
+  }
