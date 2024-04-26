@@ -1,0 +1,33 @@
+  body {
+    background: #FBD6C1;
+  }
+  .tri {
+    width: 0px;
+    height: 0px;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-bottom: 125px solid #D62022;
+    position: absolute;
+    margin: auto;
+    top: -75; right: 0; bottom: 0; left: 0;
+  }
+  .half-out {
+    width: 150px;
+    height: 80px;
+    background: #D62022;
+    position: absolute;
+    margin: auto;
+    top: 120; right: 0; bottom: 0; left: 0;
+    border-bottom-right-radius: 75px;
+    border-bottom-left-radius: 75px;
+  }
+  .half-in {
+    width: 100px;
+    height: 50px;
+    background: #FBD6C1;
+    position: absolute;
+    margin: auto;
+    top: 100; right: 0; bottom: 0; left: 0;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+  }
