@@ -1,0 +1,29 @@
+  body {
+    background: #631E1D;
+  }
+  .bot {
+    width: 250px;
+    height: 30px;
+    background: #dd6b4d;
+    position: absolute;
+    top: 140; left: 0; bottom: 0; right: 0;
+    margin: auto;
+  }
+  .right {
+    width: 250px;
+    height: 30px;
+    background: #dd6b4d;
+    position: absolute;
+    top: 0; left: 80; bottom: 0; right: 0;
+    margin: auto;
+    transform: rotate(60deg);
+  }
+  .left {
+    width: 250px;
+    height: 30px;
+    background: #dd6b4d;
+    position: absolute;
+    top: 0; left: -80; bottom: 0; right: 0;
+    margin: auto;
+    transform: rotate(-60deg);
+  }
