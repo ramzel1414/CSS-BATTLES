@@ -1,0 +1,84 @@
+  body {
+    background: #085328;
+  }
+  .bot-tri-out {
+    width: 25px;
+    height: 10px;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 140px solid #49C85B;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 0; bottom: 0; right: 0;
+  }
+  .bot-tri-in {
+    width: 0px;
+    height: 0px;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 110px solid #085328;
+    position: absolute;
+    margin: auto;
+    top: 200; left: 0; bottom: 0; right: 0;
+  }
+  .top-tri-out {
+    width: 25px;
+    height: 10px;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-top: 140px solid #49C85B;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 0; bottom: 0; right: 0;
+  }
+  .top-tri-in {
+    width: 0px;
+    height: 0px;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-top: 110px solid #085328;
+    position: absolute;
+    margin: auto;
+    top: -200; left: 0; bottom: 0; right: 0;
+  }
+  .left-tri-out {
+    width: 10px;
+    height: 35px;
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent;
+    border-left: 160px solid #49C85B;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -250; bottom: 0; right: 0;
+  }
+  .left-tri-in {
+    width: 0px;
+    height: 0px;
+    border-top: 110px solid transparent;
+    border-bottom: 110px solid transparent;
+    border-left: 110px solid #085328;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -300; bottom: 0; right: 0;
+  }
+  .right-tri-out {
+    width: 10px;
+    height: 35px;
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent;
+    border-right: 160px solid #49C85B;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 250; bottom: 0; right: 0;
+  }
+  .right-tri-in {
+    width: 0px;
+    height: 0px;
+    border-top: 110px solid transparent;
+    border-bottom: 110px solid transparent;
+    border-right: 110px solid #085328;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 300; bottom: 0; right: 0;
+  }
+
