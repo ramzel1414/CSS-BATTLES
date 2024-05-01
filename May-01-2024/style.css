@@ -1,0 +1,71 @@
+  body {
+    background: #4F77FF;
+  }
+  .box1-ver {
+    width: 30px;
+    height: 100px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -200; left: -250; right: 0; bottom: 0;
+  }
+  .box1-hor {
+    width: 100px;
+    height: 30px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -300; right: 0; bottom: 0;
+  }
+  .circle1 {
+    width: 100px;
+    height: 100px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -80; left: -180; right: 0; bottom: 0;
+  }
+  .circle1-in {
+    width: 40px;
+    height: 40px;
+    background: #4F77FF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -80; left: -180; right: 0; bottom: 0;
+  }
+  .box2-ver {
+    width: 30px;
+    height: 100px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 200; left: 250; right: 0; bottom: 0;
+  }
+  .box2-hor {
+    width: 100px;
+    height: 30px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 300; right: 0; bottom: 0;
+  }
+  .circle2 {
+    width: 100px;
+    height: 100px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80; left: 180; right: 0; bottom: 0;
+  }
+  .circle2-in {
+    width: 40px;
+    height: 40px;
+    background: #4F77FF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 80; left: 180; right: 0; bottom: 0;
+  }
