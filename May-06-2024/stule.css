@@ -1,0 +1,38 @@
+  body {
+    background: #4F77FF;
+    margin: 0;
+  }
+  .container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 47vh;
+    gap: 2.5rem;
+  }
+  .child1 {
+    width: 20px;
+    height: 60px;
+    background: #EFF8FE;
+    margin-bottom: 0px;
+  }
+  .container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 47vh;
+    gap: 2.5rem;
+  }
+  .child2 {
+    width: 20px;
+    height: 60px;
+    background: #EFF8FE;
+    margin-bottom: 0px;
+  }
+  .horizontal {
+    display: flex;
+    align-items: center;
+    height: 6vh;
+    width: 100%;
+    background: #EFF8FE;
+    margin: 0px;
+  }
