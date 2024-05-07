@@ -1,0 +1,66 @@
+
+  body {
+    background: #0A6190;
+  }
+  .rect {
+    width: 200px;
+    height: 180px;
+    background: linear-gradient(to bottom, #328FC1 50%, #EFF8FE 50%);
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .c1 {
+    width: 30px;
+    height: 30px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: -120; left: -140; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c2 {
+    width: 30px;
+    height: 30px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: -120; left: -50; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c3 {
+    width: 30px;
+    height: 30px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: -120; left: 40; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c4 {
+    width: 30px;
+    height: 30px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 120; left: 140; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c5 {
+    width: 30px;
+    height: 30px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 120; left: 50; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c6 {
+    width: 30px;
+    height: 30px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 120; left: -40; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
