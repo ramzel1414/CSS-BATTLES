@@ -1,0 +1,28 @@
+  body {
+    background: #F48B26;
+    margin: 0px;
+  }
+  .rect {
+    width: 400px;
+    height: 100px;
+    background: #FEFF58;
+  }
+  .circ1 {
+    width: 200px;
+    height: 200px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 100pz; bottom: 0; left: -200px; right: 0;
+    border-radius: 50%;
+  }
+  .circ2 {
+    width: 200px;
+    height: 200px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 100pz; bottom: 0; left: 200px; right: 0;
+    border-radius: 50%;
+  }
+  
