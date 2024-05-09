@@ -1,0 +1,47 @@
+  body {
+    background: #D5EDFC;
+  }
+  .c1 {
+    width: 80px;
+    height: 80px;
+    background: #06487A;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -140; bottom: 0; right: 0;
+  }
+  .c2 {
+    width: 80px;
+    height: 80px;
+    background: #06487A;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 140; bottom: 0; right: 0;
+  }
+  .big-rect {
+    width: 160px;
+    height: 220px;
+    background: #06487A;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .small-rect {
+    width: 120px;
+    height: 180px;
+    background: #D5EDFC;
+    border-radius: 30px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .cover {
+    width: 150px;
+    height: 70px;
+    background: #D5EDFC;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -150; bottom: 0; right: 0;
+  }
