@@ -1,0 +1,41 @@
+  body {
+    background: #512B2A;
+  }
+  .outline {
+    width: 200px;
+    height: 120px;
+    background: #EA6B62;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 20px;
+  }
+  .triangle {
+    width: 0;
+    height: 0;
+    border-left: 0px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 50px solid #EA6B62;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -92; bottom: 0; right: 0;
+  }
+  .rect {
+    width: 100px;
+    height: 60px;
+    background: #512B2A;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -40; bottom: 0; right: 0;
+    border-radius: 10px;
+  }
+  .tri {
+    width: 0;
+    height: 0;
+    border-bottom: 20px solid transparent;
+    border-top: 20px solid transparent;
+    border-right: 50px solid #512B2A;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 90; bottom: 0; right: 0;
+  }
