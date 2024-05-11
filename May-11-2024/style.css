@@ -1,0 +1,51 @@
+  body {
+    background: #223E1F;
+  }
+  .piano {
+    width: 300px;
+    height: 100px;
+    background: #BFE33A;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+  }
+  .key1 {
+    width: 20px;
+    height: 60px;
+    background: #223E1F;
+    position: absolute;
+    margin: auto;
+    top: 60; bottom: 0; left: -240; right: 0;
+  }
+  .key2 {
+    width: 20px;
+    height: 60px;
+    background: #223E1F;
+    position: absolute;
+    margin: auto;
+    top: 60; bottom: 0; left: -160; right: 0;
+  }
+  .key3 {
+    width: 20px;
+    height: 60px;
+    background: #223E1F;
+    position: absolute;
+    margin: auto;
+    top: 60; bottom: 0; left: 0; right: 0;
+  }
+  .key4 {
+    width: 20px;
+    height: 60px;
+    background: #223E1F;
+    position: absolute;
+    margin: auto;
+    top: 60; bottom: 0; left: 240; right: 0;
+  }
+  .key5 {
+    width: 20px;
+    height: 60px;
+    background: #223E1F;
+    position: absolute;
+    margin: auto;
+    top: 60; bottom: 0; left: 160; right: 0;
+  }
