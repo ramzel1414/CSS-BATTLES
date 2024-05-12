@@ -1,0 +1,75 @@
+body {
+    background: #FFFFCD;
+  }
+  .out-c-l {
+    width: 120px;
+    height: 120px;
+    background: #E78320;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -160; bottom: 0; right: 0;
+  }
+  .in-c-l {
+    width: 80px;
+    height: 80px;
+    background: #FFFFCD;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -160; bottom: 0; right: 0;
+  }
+  .out-c-r {
+    width: 120px;
+    height: 120px;
+    background: #E78320;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 160; bottom: 0; right: 0;
+  }
+  .in-c-r {
+    width: 80px;
+    height: 80px;
+    background: #FFFFCD;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 160; bottom: 0; right: 0;
+  }
+  .rect-left {
+    width: 80px;
+    height: 20px;
+    background: #E78320;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -320; bottom: 0; right: 0;
+  }
+  .rect-right {
+    width: 80px;
+    height: 20px;
+    background: #E78320;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 320; bottom: 0; right: 0;
+  }
+  .nose {
+    width: 70px;
+    height: 60px;
+    background: #E78320;
+    position: absolute;
+    margin: auto;
+    top: -20; left: 0; bottom: 0; right: 0;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+  }
+  .nose-in {
+    width: 43px;
+    height: 40px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+  }
