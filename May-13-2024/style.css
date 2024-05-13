@@ -1,0 +1,23 @@
+
+  body {
+    background: #EDAF38;
+  }
+  .triangle {
+    width: 0px;
+    height: 0px;
+    border-top: 110px solid transparent;
+    border-bottom: 110px solid transparent;
+    border-right: 110px solid #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -10; bottom: 0; right: 0;
+  }
+  .rect {
+    width: 320px;
+    height: 20px;
+    position: absolute;
+    margin: auto;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background: #FFFFCD;
+    border-radius: 50px;
+  }
