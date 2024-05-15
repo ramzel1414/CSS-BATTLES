@@ -1,0 +1,29 @@
+body {
+    background: #611B3F;
+  }
+  .rect {
+    width: 200px;
+    height: 80px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -120; left: 0; bottom: 0; right: 0;
+  }
+  .trapz {
+    width: 100;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 40px solid #A1226D;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .square {
+    width: 120px;
+    height: 80px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 115; left: 0; bottom: 0; right: 0;
+  }
