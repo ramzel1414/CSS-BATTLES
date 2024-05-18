@@ -1,0 +1,67 @@
+
+  .neck {
+    width: 20px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 45px solid #AD6CB6;
+    position: absolute;
+    margin: auto;
+    top: 10; bottom: 0; left: 0; right: 0;
+  }
+  body {
+    background: #81008F;
+  }
+  .top {
+    width: 100px;
+    height: 75px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: -65; bottom: 0; left: 0; right: 0;
+  }
+  .tri1 {
+    width: 0px;
+    height: 0px;
+    border-left: 0px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 45px solid #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: -160; bottom: 0; left: -63; right: 0;
+  }
+  .tri2 {
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 45px solid #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: -160; bottom: 0; left: 62; right: 0;
+  }
+  .bot {
+    width: 100px;
+    height: 45px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 95; bottom: 0; left: 0; right: 0;
+  }
+  .s1 {
+    width: 34px;
+    height: 40px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 160; bottom: 0; left: -66; right: 0;
+  }
+  .s2 {
+    width: 34px;
+    height: 40px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 160; bottom: 0; left: 66; right: 0;
+  }
+  
