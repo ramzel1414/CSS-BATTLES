@@ -1,0 +1,59 @@
+  body {
+    background: #feff58;
+  }
+  .hor {
+    width: 400px;
+    height: 40px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .ver1 {
+    width: 40px;
+    height: 150px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -360; bottom: 0; right: 0;
+  }
+  .ver2 {
+    width: 40px;
+    height: 150px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 360; bottom: 0; right: 0;
+  }
+  .c1 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: -40; left: -40; bottom: 0; right: 0;
+  }
+  .c2 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: -40; left: -200; bottom: 0; right: 0;
+  }
+  .c3 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: -40; left: 120; bottom: 0; right: 0;
+  }
+  .c4 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: -40; left: 280; bottom: 0; right: 0;
+  }
+  .c5 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: 40; left: 40; bottom: 0; right: 0;
+  }
+  .c6 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: 40; left: 200; bottom: 0; right: 0;
+  }
+  .c7 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: 40; left: -120; bottom: 0; right: 0;
+  }
+  .c8 {
+    width: 40px; height: 40px; border-radius: 50%; background: #f48b26;
+    position: absolute; margin: auto; top: 40; left: -280; bottom: 0; right: 0;
+  }

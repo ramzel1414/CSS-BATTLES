@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inset</title>
+    <style>
+        body {
+            background: pink;
+
+        }
+        .container {
+            background: white;
+            margin-inline: 2rem;
+            height: 100vh;
+        }
+
+        /*suppose*/
+        /* .item {
+            background: blue;
+            width: 100px;
+            height: 50px;
+            position: absolute;
+            margin: auto;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            color: white;
+        } */
+
+        /*use*/
+        .item {
+            background: blue;
+            width: 100px;
+            height: 50px;
+            position: absolute;
+            margin: auto;
+            inset: 0;
+            color: white;
+        }
+
+        /*suppose*/
+        /* .item:hover,         
+        .item:focus {
+            background: #aaa;
+        } */
+
+        /*use*/
+        .item:is(:hover, :focus) {
+            background: #aaa;
+            scale: 2;   /*2x*/
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <button class="item">
+            click me
+        </button>
+    </div>
+</body>
+</html>
