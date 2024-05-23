@@ -1,0 +1,39 @@
+  body {
+    background: #611B3F;
+  }
+  .small {
+    width: 90px;
+    height: 90px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -120; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .big {
+    width: 200px;
+    height: 200px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 50%;
+  }
+  .left {
+    width: 200px;
+    height: 200px;
+    background: #611B3F;
+    position: absolute;
+    margin: auto;
+    top: -250; left: -240; bottom: 0; right: 0;
+    transform: rotate(40deg);
+  }
+  .right {
+    width: 200px;
+    height: 200px;
+    background: #611B3F;
+    position: absolute;
+    margin: auto;
+    top: -250; left: 220; bottom: 0; right: 0;
+    transform: rotate(-40deg);
+  }
