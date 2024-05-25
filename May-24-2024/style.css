@@ -1,0 +1,37 @@
+  body {
+    background: #EA6B62;
+  }
+  .handle {
+    width: 20px;
+    height: 175px;
+    background: #512B2A;
+    position: absolute;
+    margin: auto;
+    top: 140; left: 0; bottom: 0; right: 0;
+  }
+  .head {
+    width: 100px;
+    height: 80px;
+    background: #512B2A;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 0; bottom: 0; right: 0;
+  }
+  .edge1 {
+    width: 40px;
+    height: 120px;
+    background: #512B2A;
+    position: absolute;
+    margin: auto;
+    top: -50; left: -140; bottom: 0; right: 0;
+    border-radius: 10px;
+  }
+  .edge2 {
+    width: 40px;
+    height: 120px;
+    background: #512B2A;
+    position: absolute;
+    margin: auto;
+    top: -50; left: 140; bottom: 0; right: 0;
+    border-radius: 10px;
+  }

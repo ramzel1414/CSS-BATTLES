@@ -1,0 +1,43 @@
+  body {
+    background: #DBBA30;
+  }
+  .box {
+    width: 200px;
+    height: 200px;
+    background: #A95415;
+    position: absolute;
+    margin: auto;
+    inset: 0
+  }
+  .hor {
+    width: 120px;
+    height: 40px;
+    background: #DBBA30;
+    position: absolute;
+    margin: auto;
+    top: -80; left: 80; bottom: 0; right: 0;
+  }
+  .ver {
+    width: 40px;
+    height: 120px;
+    background: #DBBA30;
+    position: absolute;
+    margin: auto;
+    top: 80; left: -80; bottom: 0; right: 0;
+  }
+  .s1 {
+    width: 40px;
+    height: 40px;
+    background: #DBBA30;
+    position: absolute;
+    margin: auto;
+    top: 80; left: 159; bottom: 0; right: 0;
+  }
+  .s2 {
+    width: 40px;
+    height: 40px;
+    background: #DBBA30;
+    position: absolute;
+    margin: auto;
+    top: 160; left: 80; bottom: 0; right: 0;
+  }
