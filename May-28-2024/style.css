@@ -1,0 +1,112 @@
+  body {
+    background: #F48B26;
+  }
+  .m {
+    width:70px;
+    height: 50px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .ic1 {
+    width: 70px;
+    height: 60px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -320; bottom: 0; right: 0;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .c1 {
+    width: 100px;
+    height: 40px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 60; left: -310; bottom: 0; right: 0;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  .ic2 {
+    width: 60px;
+    height: 40px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: 20; left: 0; bottom: 0; right: 0;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .c2 {
+    width: 100px;
+    height: 80px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 20; left: 0; bottom: 0; right: 0;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  .c3 {
+    width: 100px;
+    height: 40px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 60; left: 310; bottom: 0; right: 0;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  .ic3 {
+    width: 70px;
+    height: 60px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 320; bottom: 0; right: 0;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .c4 {
+    width: 100px;
+    height: 60px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: -40; left: -155; bottom: 0; right: 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+  .ic4 {
+    width: 60px;
+    height: 40px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -20; left: -155; bottom: 0; right: 0;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .c5 {
+    width: 100px;
+    height: 60px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: -40; left: 155; bottom: 0; right: 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+  .ic5 {
+    width: 60px;
+    height: 40px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -20; left: 155; bottom: 0; right: 0;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
