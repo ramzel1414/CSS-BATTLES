@@ -1,0 +1,26 @@
+  .parent {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    height: 73%;
+  }
+  .r1 {
+    height: 40px;
+    width: 16px;
+    background: #FFFFFF;
+  }
+  body {
+    background: #F59426;
+  }
+  .trapz {
+    width: 200;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 80px solid #fff;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    margin-top: 44vh
+  }
