@@ -1,0 +1,31 @@
+  body {
+    background: #EFF8FE;
+  }
+  .c1 {
+    width: 200px;
+    height: 200px;
+    background: #4F77FF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -300; left: 0; bottom: 0; right: 0;
+  }
+  .c2 {
+    width: 100px;
+    height: 300px;
+    background: #4F77FF;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: 300; left: -100; bottom: 0; right: 0;
+  }
+  .c3 {
+    width: 100px;
+    height: 300px;
+    background: #4F77FF;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: 300; left: 100; bottom: 0; right: 0;
+  }
+
