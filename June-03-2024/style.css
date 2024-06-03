@@ -1,0 +1,47 @@
+  body {
+    background: #0A6190;
+  }
+  .c1 {
+    width: 120px;
+    height: 120px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c2 {
+    width: 120px;
+    height: 120px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c3 {
+    width: 80px;
+    height: 80px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c4 {
+    width: 80px;
+    height: 80px;
+    background: #EFF8FE;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -150; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .square {
+    width: 150px;
+    height: 150px;
+    background: #0A6190;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
