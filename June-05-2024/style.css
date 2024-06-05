@@ -1,0 +1,35 @@
+  body {
+    background: #F59426;
+  }
+  .egg1 {
+    width: 95px;
+    height: 95px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 25; left: -60; bottom: 0; right: 0;
+    border-radius: 25%;
+    border-top-right-radius: 70%;
+    border-bottom-left-radius: 70%;
+  }
+  .egg2 {
+    width: 95px;
+    height: 95px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 25; left: 60; bottom: 0; right: 0;
+    border-radius: 25%;
+    border-top-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+  }
+  .egg3 {
+    width: 55px;
+    height: 100px;
+    background: #FAC992;
+    position: absolute;
+    margin: auto;
+    top: -10; left: 0; bottom: 0; right: 0;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
