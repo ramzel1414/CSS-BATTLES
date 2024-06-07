@@ -1,0 +1,31 @@
+
+  body {
+     background: #49C85B;
+  }
+  .c1 {
+    width: 230px;
+    height: 230px;
+    background: #2F9947;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c2 {
+    width: 170px;
+    height: 170px;
+    background: #1F7D3B;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .c3 {
+    width: 110px;
+    height: 110px;
+    background: #085328;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
