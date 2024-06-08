@@ -1,0 +1,43 @@
+  body {
+    background: #81008F;
+  }
+  .eye1 {
+    width: 25px;
+    height: 30px;
+    background: #81008F;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 20; left: -50; bottom: 0; right: 0;
+    transform: rotate(-45deg);
+  }
+  .eye2 {
+    width: 25px;
+    height: 30px;
+    background: #81008F;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 20; left: 50; bottom: 0; right: 0;
+    transform: rotate(45deg);
+  }
+  .head {
+    width: 120px;
+    height: 100px;
+    background: #DBBEDF;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .wings {
+    width: 240px;
+    height: 30px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 10px;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+  }
