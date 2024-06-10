@@ -1,0 +1,75 @@
+body {
+    background: #611B3F;
+  }
+  .center {
+    width: 110px;
+    height: 80px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .corner1 {
+    width: 60px;
+    height: 30px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -90; left: -190; bottom: 0; right: 0;
+  }
+  .corner2 {
+    width: 60px;
+    height: 30px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -90; left: 190; bottom: 0; right: 0;
+  }
+  .corner3 {
+    width: 60px;
+    height: 30px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 90; left: -190; bottom: 0; right: 0;
+  }
+  .corner4 {
+    width: 60px;
+    height: 30px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 90; left: 190; bottom: 0; right: 0;
+  }
+  .mid1 {
+    width: 110px;
+    height: 10px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: -110; left: 0; bottom: 0; right: 0;
+  }
+  .mid2 {
+    width: 110px;
+    height: 10px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 110; left: 0; bottom: 0; right: 0;
+  }
+  .mid3 {
+    width: 110px;
+    height: 10px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -140; bottom: 0; right: 0;
+  }
+  .mid4 {
+    width: 110px;
+    height: 10px;
+    background: #BE3184;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 140; bottom: 0; right: 0;
+  }
