@@ -1,75 +1,67 @@
 body {
-    background: #611B3F;
+    background: #F48B26;
   }
-  .center {
-    width: 110px;
-    height: 80px;
-    background: #BE3184;
+  .lr1 {
+    width: 200px;
+    height: 50px;
+    background: #FEFF58;
     position: absolute;
     margin: auto;
-    inset: 0;
+    top: -180; left: -130; bottom: 0; right: 0;
   }
-  .corner1 {
+  .rr1 {
+    width: 120px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: -180; left: 210; bottom: 0; right: 0;
+  }
+  .lr2 {
+    width: 200px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: -60; left: -110; bottom: 0; right: 0;
+  }
+  .rr2 {
+    width: 100px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: -60; left: 210; bottom: 0; right: 0;
+  }
+  .lr3 {
+    width: 200px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 60; left: -90; bottom: 0; right: 0;
+  }
+  .rr3 {
+    width: 80px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 60; left: 210; bottom: 0; right: 0;
+  }
+  .lr4 {
+    width: 200px;
+    height: 50px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 180; left: -70; bottom: 0; right: 0;
+  }
+  .rr4 {
     width: 60px;
-    height: 30px;
-    background: #BE3184;
+    height: 50px;
+    background: #FEFF58;
     position: absolute;
     margin: auto;
-    top: -90; left: -190; bottom: 0; right: 0;
-  }
-  .corner2 {
-    width: 60px;
-    height: 30px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: -90; left: 190; bottom: 0; right: 0;
-  }
-  .corner3 {
-    width: 60px;
-    height: 30px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: 90; left: -190; bottom: 0; right: 0;
-  }
-  .corner4 {
-    width: 60px;
-    height: 30px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: 90; left: 190; bottom: 0; right: 0;
-  }
-  .mid1 {
-    width: 110px;
-    height: 10px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: -110; left: 0; bottom: 0; right: 0;
-  }
-  .mid2 {
-    width: 110px;
-    height: 10px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: 110; left: 0; bottom: 0; right: 0;
-  }
-  .mid3 {
-    width: 110px;
-    height: 10px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: 0; left: -140; bottom: 0; right: 0;
-  }
-  .mid4 {
-    width: 110px;
-    height: 10px;
-    background: #BE3184;
-    position: absolute;
-    margin: auto;
-    top: 0; left: 140; bottom: 0; right: 0;
+    top: 180; left: 210; bottom: 0; right: 0;
   }
