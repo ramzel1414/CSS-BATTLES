@@ -1,0 +1,43 @@
+body {
+  background: #F59426;
+}
+.center {
+  width: 120px;
+  height: 160px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+.top {
+  width: 50px;
+  height: 40px;
+  background: #FFF;
+  position: absolute;
+  margin: auto;
+  top: -200; left: 0; right: 0; bottom: 0;
+}
+.bot {
+  width: 50px;
+  height: 40px;
+  background: #FFF;
+  position: absolute;
+  margin: auto;
+  top: 200; left: 0; right: 0; bottom: 0;
+}
+.left {
+  width: 50px;
+  height: 40px;
+  background: #FFF;
+  position: absolute;
+  margin: auto;
+  top: 0; left: -170; right: 0; bottom: 0;
+}
+.right {
+  width: 50px;
+  height: 40px;
+  background: #FFF;
+  position: absolute;
+  margin: auto;
+  top: 0; left: 170; right: 0; bottom: 0;
+}
