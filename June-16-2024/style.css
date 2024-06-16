@@ -1,0 +1,34 @@
+body {
+  background: #FFFFCD;
+}
+.container {
+  width: 280px;
+  height: 150px;
+  background: #EDAF38;
+  position: absolute;
+  margin: auto;
+  top: -130; left: 0; bottom: 0; right: 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+.child {
+  width: 220px;
+  height: 130px;
+  background: #FFFFCD;
+  margin: 10px;
+}
+.container2 {
+  width: 280px;
+  height: 150px;
+  position: absolute;
+  margin: auto;
+  top: 170; left: 0; bottom: 0; right: 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+.child2 {
+  width: 220px;
+  height: 120px;
+  background: #EDAF38;
+  margin: 10px;
+}
