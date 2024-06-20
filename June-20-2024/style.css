@@ -1,0 +1,51 @@
+  body {
+    background: #4F77FF;
+  }
+  .rect1 {
+    width: 90px;
+    height: 140px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -120; left: -270; bottom: 0; right: 0;
+  }
+  .rect2 {
+    width: 90px;
+    height: 140px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 120; left: 270; bottom: 0; right: 0;
+  }
+  .rect3 {
+    width: 90px;
+    height: 120px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 140; left: 50; bottom: 0; right: 0;
+  }
+  .rect3-in {
+    width: 50px;
+    height: 100px;
+    background: #4F77FF;
+    position: absolute;
+    margin: auto;
+    top: 160; left: 50; bottom: 0; right: 0;
+  }
+  .rect4 {
+    width: 90px;
+    height: 120px;
+    background: #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: -140; left:-50; bottom: 0; right: 0;
+  }
+  .rect4-in {
+    width: 50px;
+    height: 100px;
+    background: #4F77FF;
+    position: absolute;
+    margin: auto;
+    top: -160; left: -50; bottom: 0; right: 0;
+  }
