@@ -1,0 +1,27 @@
+  body {
+    background: #F48B26;
+  }
+  .rect {
+    width: 350px;
+    height: 250px;
+    background: #FEFF58;
+    position: absolute;
+    margin: auto;
+    top: 50; bottom: 0; right: 0; left: -50;
+  }
+  .rect1 {
+    width: 150px;
+    height: 50px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: -50; bottom: 0; right: 0; left: 150;
+  }
+  .rect2 {
+    width: 150px;
+    height: 50px;
+    background: #F48B26;
+    position: absolute;
+    margin: auto;
+    top: 150; bottom: 0; right: 0; left: 150;
+  }
