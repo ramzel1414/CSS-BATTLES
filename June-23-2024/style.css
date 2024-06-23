@@ -1,0 +1,59 @@
+  body {
+    background: #0A6190;
+  }
+  .box1 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -300; bottom: 0; right: 0;
+  }
+  .box2 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 300; bottom: 0; right: 0;
+  }
+  .box3 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: -50; left: -202; bottom: 0; right: 0;
+  }
+  .box4 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: -50; left: 202; bottom: 0; right: 0;
+  }
+  .box5 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 50; left: -100; bottom: 0; right: 0;
+  }
+  .box6 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 50; left: 100; bottom: 0; right: 0;
+  }
+  .box7 {
+    width: 80px;
+    height: 80px;
+    background: #328FC1;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 0; bottom: 0; right: 0;
+  }
