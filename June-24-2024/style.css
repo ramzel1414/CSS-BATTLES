@@ -1,0 +1,67 @@
+  body {
+    background: #EDAF38;
+  }
+  .rect1 {
+    width: 30px;
+    height: 140px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: -160; left: -370; bottom: 0; right: 0;
+  }
+  .rect2 {
+    width: 30px;
+    height: 140px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: -160; left: -250; bottom: 0; right: 0;
+  }
+  .rect3 {
+    width: 30px;
+    height: 140px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 160; left: 370; bottom: 0; right: 0;
+  }
+  .rect4 {
+    width: 30px;
+    height: 140px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 160; left: 250; bottom: 0; right: 0;
+  }
+  .rect5 {
+    width: 246px;
+    height: 30px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: -270; left: 160; bottom: 0; right: 0;
+  }
+  .rect6 {
+    width: 246px;
+    height: 30px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 160; bottom: 0; right: 0;
+  }
+  .rect7 {
+    width: 246px;
+    height: 30px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 270; left: -160; bottom: 0; right: 0;
+  }
+  .rect8 {
+    width: 246px;
+    height: 30px;
+    background: #FFFFCD;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -160; bottom: 0; right: 0;
+  }
