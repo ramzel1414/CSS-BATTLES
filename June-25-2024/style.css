@@ -1,0 +1,67 @@
+  body {
+    background: #81008F;
+  }
+  .left {
+    width: 24px;
+    height: 300px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -385; bottom: 0; right: 0;
+  }
+  .right {
+    width: 24px;
+    height: 300px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 380; bottom: 0; right: 0;
+  }
+  .top-left {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: -240; left: -383; bottom: 0; right: 0;
+  }
+  .top-right {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: -240; left: 290; bottom: 0; right: 0;
+  }
+  .bot-left {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 240; left: -383; bottom: 0; right: 0;
+  }
+  .bot-right {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 240; left: 290; bottom: 0; right: 0;
+  }
+  .mid-left {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -300; bottom: 0; right: 0;
+  }
+  .mid-right {
+    width: 200px;
+    height: 20px;
+    background: #DBBEDF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 250; bottom: 0; right: 0;
+  }
