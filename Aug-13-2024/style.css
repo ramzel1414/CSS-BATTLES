@@ -1,0 +1,27 @@
+  html {
+    background: #6255AA;
+  } 
+  .out {
+    width: 150px;
+    height: 220px;
+    background: #D96E9F;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .in-ver {
+    width: 62px;
+    height: 160px;
+    background: #6255AA;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -30; bottom: 0; right: 0;
+  }
+  .in-hor {
+    width: 90px;
+    height: 60px;
+    background: #6255AA;
+    position: absolute;
+    margin: auto;
+    top: 100; left: 0; bottom: 0; right: 0;
+  }
