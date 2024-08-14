@@ -1,0 +1,41 @@
+  body {
+    background: #151109;
+  }
+  .circle {
+    width: 200px;
+    height: 190px;
+    background: #B53733;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -15; left: 0; bottom: 0; right: 0;
+  }
+  .moon {
+    width: 20px;
+    height: 20px;
+    background: #151109;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -115; left: 85; bottom: 0; right: 0;
+  }
+  .triangle1 {
+    width: 0px;
+    height: 0px;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 115px solid #151109;
+    position: absolute;
+    margin: auto;
+    top: 60; left: -65; bottom: 0; right: 0;
+  }
+  .triangle2 {
+    width: 0px;
+    height: 0px;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 69px solid #151109;
+    position: absolute;
+    margin: auto;
+    top: 80; left: 80; bottom: 0; right: 0;
+  }
