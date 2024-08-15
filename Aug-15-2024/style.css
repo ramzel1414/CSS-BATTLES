@@ -1,0 +1,32 @@
+  body {
+    background: #2F5A76;
+  }
+  .oval {
+    width: 100px;
+    height: 225px;
+    background: #F5BB60;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 50px;
+  }
+  .oval-in1 {
+    width: 50px;
+    height: 150px;
+    background: #2F5A76;
+    position: absolute;
+    margin: auto;
+    top: -40; left: 80; bottom: 0; right: 0;
+    border-radius: 50px;
+    transform: rotate(-45deg);
+  }
+  .oval-in2 {
+    width: 50px;
+    height: 150px;
+    background: #2F5A76;
+    position: absolute;
+    margin: auto;
+    top: 40; left: -80; bottom: 0; right: 0;
+    border-radius: 50px;
+    transform: rotate(-45deg);
+  }
