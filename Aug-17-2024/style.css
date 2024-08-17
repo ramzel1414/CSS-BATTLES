@@ -1,0 +1,51 @@
+  body {
+    background: #ffffff;
+  }
+  .left-v {
+    width: 50px;
+    height: 200px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -250; bottom: 0; right: 0;
+  }
+  .left-h1 {
+    width: 100px;
+    height: 50px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: -150; left: -200; bottom: 0; right: 0;
+  }
+  .left-h2 {
+    width: 100px;
+    height: 50px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -200; bottom: 0; right: 0;
+  }
+  .right-v {
+    width: 50px;
+    height: 200px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 250; bottom: 0; right: 0;
+  }
+  .right-h1 {
+    width: 100px;
+    height: 50px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 200; bottom: 0; right: 0;
+  }
+  .right-h2 {
+    width: 100px;
+    height: 50px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: 150; left: 200; bottom: 0; right: 0;
+  }
