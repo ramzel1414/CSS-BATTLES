@@ -1,0 +1,27 @@
+  body {
+    background: #EDDF5A;
+  }
+  .sq {
+    background: #EDDF5A;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .box1 {
+    width: 20px;
+    height: 180px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 40; bottom: 0; right: 0;
+    box-shadow: 0 0 0 20px #0E127D; 
+  }
+  .box2 {
+    width: 20px;
+    height: 100px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -40; bottom: 0; right: 0;
+    box-shadow: 0 0 0 20px #0E127D; 
+  }
