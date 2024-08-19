@@ -1,0 +1,38 @@
+  body {
+    background: #F2EAA8;
+  }
+  .rect1 {
+    width: 40px;
+    height: 200px;
+    background: #98CEA1;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .rect2 {
+    width: 40px;
+    height: 200px;
+    background: #98CEA1;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    transform: rotate(45deg);
+  }
+  .rect3 {
+    width: 40px;
+    height: 200px;
+    background: #98CEA1;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    transform: rotate(90deg);
+  }
+  .rect4 {
+    width: 40px;
+    height: 200px;
+    background: #98CEA1;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    transform: rotate(135deg);
+  }
