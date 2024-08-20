@@ -1,0 +1,21 @@
+body {
+  background: #7E6293;
+}
+.protractor {
+  width: 210px;
+  height: 105px;
+  background: #E8BA79;
+  position: absolute;
+  margin: auto;
+  top: -105; left: 0; bottom: 0; right: 0;
+  border-radius: 9999px 9999px 0 0;
+}
+.half-circle {
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(to bottom, #7E6293 50%, #DE817E 50%);
+  position: absolute;
+  margin: auto;
+  top: 0; left: 0; bottom: 0; right: 0;
+  border-radius: 9999px;
+}
