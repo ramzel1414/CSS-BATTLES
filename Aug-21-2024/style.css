@@ -1,0 +1,40 @@
+  body {
+    background: #8BADDB;
+  }
+  .hair1 {
+    width: 60px;
+    height: 120px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: -80; left: -60; right: 0; bottom: 0;
+    border-radius: 9999px 0;
+  }
+  .hair2 {
+    width: 60px;
+    height: 120px;
+    background: #000000;
+    position: absolute;
+    margin: auto;
+    top: -80; left: 60; right: 0; bottom: 0;
+    border-radius: 9999px 0;
+    transform: scaleX(-1);
+  }
+  .eye1 {
+    width: 20px;
+    height: 20px;
+    background: #000;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 85; left: -60; bottom: 0; right: 0;
+  }
+  .eye2 {
+    width: 20px;
+    height: 20px;
+    background: #000;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 85; left: 60; bottom: 0; right: 0;
+  }
