@@ -1,0 +1,33 @@
+body {
+  background: #BDE4C1;
+}
+.oval {
+  width: 100px;
+  height: 180px;
+  background: #784972;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 60% 60% 30% 30%;
+}
+.tri1 {
+  width: 0;
+  height: 0;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  border-bottom: 100px solid #784972;
+  position: absolute;
+  margin: auto;
+  top: 200; left: 0; bottom: 0; right: 0;
+}
+.tri2 {
+  width: 0;
+  height: 0;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  border-bottom: 100px solid #784972;
+  position: absolute;
+  margin: auto;
+  top: -200; left: 0; bottom: 0; right: 0;
+  transform: scaleY(-1);
+}
