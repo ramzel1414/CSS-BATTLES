@@ -1,0 +1,19 @@
+  body {
+    background: #FAE29E;
+  }
+  .box1 {
+    width: 50%;
+    height: 50%;
+    background: #668884;
+    position: absolute;
+    margin: auto;
+    top: -150; left: 200; bottom: 0; right: 0;
+  }
+  .box2 {
+    width: 50%;
+    height: 50%;
+    background: #668884;
+    position: absolute;
+    margin: auto;
+    top: 150; left: -200; bottom: 0; right: 0;
+  }
