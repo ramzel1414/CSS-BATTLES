@@ -1,0 +1,39 @@
+body {
+  background: #B53733;
+}
+.back {
+  width: 100px;
+  height: 100px;
+  background: #B53733;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: -60; left: 0; bottom: 0; right: 0;
+}
+.horn1 {
+  width: 100px;
+  height: 100px;
+  background: #000000;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 0; left: -60; bottom: 0; right: 0;
+}
+.horn2 {
+  width: 100px;
+  height: 100px;
+  background: #000000;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 0; left: 60; bottom: 0; right: 0;
+}
+.head {
+  width: 100px;
+  height: 100px;
+  background: #ffffff;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 60; left: 0; bottom: 0; right: 0;
+}
