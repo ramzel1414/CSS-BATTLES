@@ -1,0 +1,38 @@
+  body {
+    background: #EED9D9;
+  }
+
+  .head1 {
+    width: 90px;
+    height: 30px;
+    background: #EB5868;
+    position: absolute;
+    margin: auto;
+    top: 20px; left: -60px; bottom: 0; right: 0;
+    transform: rotate(-45deg) skew(-45deg);
+  }
+  .rect1 {
+    width: 30px;
+    height: 90px;
+    background: #EB5868;
+    position: absolute;
+    margin: auto;
+    top: 100px; left: -30px; bottom: 0; right: 0;
+  }
+  .head2 {
+    width: 90px;
+    height: 30px;
+    background: #942F3A;
+    position: absolute;
+    margin: auto;
+    top: 20px; left: 60px; bottom: 0; right: 0;
+    transform: rotate(45deg) skew(45deg);
+  }
+  .rect2 {
+    width: 30px;
+    height: 90px;
+    background: #942F3A;
+    position: absolute;
+    margin: auto;
+    top: 100px; left: 30px; bottom: 0; right: 0;
+  }
