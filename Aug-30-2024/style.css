@@ -1,0 +1,74 @@
+  body {
+    background: #8CD5F5;
+  }
+  .stem {
+    background: #708E31;
+    width: 15px;
+    height: 90px;
+    position: absolute;
+    margin: auto;
+    top: 210px; left: 0; bottom: 0; right: 0;
+  }
+  .center {
+    width: 30px;
+    height: 30px;
+    background: #F8B140;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  .c1 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -60px; left: 0; bottom: 0; right: 0;
+  }
+  .c2 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -30px; left: 50; bottom: 0; right: 0;
+  }
+  .c3 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 30px; left: 50; bottom: 0; right: 0;
+  }
+  .c4 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 60px; left: 0; bottom: 0; right: 0;
+  }
+  .c5 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: -30px; left: -50; bottom: 0; right: 0;
+  }
+  .c6 {
+    width: 60px;
+    height: 60px;
+    background: #AD4646;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 30px; left: -50; bottom: 0; right: 0;
+  }
