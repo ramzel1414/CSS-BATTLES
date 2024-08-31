@@ -1,0 +1,33 @@
+  body {
+    background: #FAE29E;
+  }
+  .rect1 {
+    width: 120px;
+    height: 60px;
+    background: #EA9A52;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0; left: -190; bottom: 0; right: 0;
+    transform: rotate(90deg);
+  }
+  .rect2 {
+    width: 120px;
+    height: 60px;
+    background: #EA9A52;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: -160; left: 90; bottom: 0; right: 0;
+    transform: rotate(34deg);
+  }
+  .rect3 {
+    width: 120px;
+    height: 60px;
+    background: #EA9A52;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    top: 160; left: 90; bottom: 0; right: 0;
+    transform: rotate(-34deg);
+  }
