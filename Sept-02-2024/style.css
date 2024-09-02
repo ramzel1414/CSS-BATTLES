@@ -1,0 +1,21 @@
+  body {
+    background: #B6EBE7;
+  }
+  .rotate {
+    width: 200px;
+    height: 200px;
+    background: #9382E4;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    transform: rotate(45deg);
+  }
+  .square {
+    width: 100px;
+    height: 100px;
+    background: #B6EBE7;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0 0 0 50px #9382E4, 0 0 0 50px #9382E4;
+  }
