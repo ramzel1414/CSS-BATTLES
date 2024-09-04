@@ -1,0 +1,38 @@
+  body {
+    background: #F3AC3C;
+  }
+  .circle {
+    width: 48px;
+    height: 40px;
+    background: #F3AC3C;
+    position: absolute;
+    margin: auto;
+    top: 55px; left: -100; bottom: 0; right: 0;
+    border-radius: 50%;
+  }
+  .rect {
+    width: 80px;
+    height: 20px;
+    background: #998235;
+    position: absolute;
+    margin: auto;
+    top: -80px; left: 0; bottom: 0; right: 0;
+  }
+  .center {
+    width: 50px;
+    height: 100px;
+    background: #998235;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius:50px;
+  }
+  .curve {
+    width: 105px;
+    height: 32px;
+    background: #998235;
+    position: absolute;
+    margin: auto;
+    top: 80px; left: -57; bottom: 0; right: 0;
+    border-radius: 0 0 50px 50px;
+  }
