@@ -1,0 +1,40 @@
+  body {
+    background: #9076D8;
+  }
+  .door1 {
+    width: 44px;
+    height: 92px;
+    background: #F3EAD2;
+    position: absolute;
+    margin: auto;
+    top: -108px; left: -180px; bottom: 0; right: 0;
+    box-shadow: 0 108px 0 0 #F3EAD2;
+  }
+  .door2 {
+    width: 44px;
+    height: 62px;
+    background: #F3EAD2;
+    position: absolute;
+    margin: auto;
+    top: -78px; left: -60px; bottom: 0; right: 0;
+    box-shadow: 0 78px 0 0 #F3EAD2;
+  }
+  .door3 {
+    width: 44px;
+    height: 42px;
+    background: #F3EAD2;
+    position: absolute;
+    margin: auto;
+    top: -58px; left: 60px; bottom: 0; right: 0;
+    box-shadow: 0 56px 0 0 #F3EAD2;
+  }
+  .door4 {
+    width: 44px;
+    height: 28px;
+    background: #F3EAD2;
+    position: absolute;
+    margin: auto;
+    top: -40px; left: 180px; bottom: 0; right: 0;
+    box-shadow: 0 40px 0 0 #F3EAD2;
+    
+  }
