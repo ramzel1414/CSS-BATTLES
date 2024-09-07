@@ -1,0 +1,15 @@
+  body {
+    background: #DE817E;
+  }
+  div {
+    width: 56px;
+    height: 56px;
+    background: #DE817E;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    transform: rotate(45deg);
+    box-shadow: -56px -56px 0 0px #DE817E,
+                56px 56px 0 0px #DE817E,
+                0 0 0 43px #217E81;
+  }
