@@ -1,0 +1,9 @@
+  div {
+    width: 200px;
+    height: 250px;
+    background: #B5E0BA;
+    position: absolute;
+    margin: auto;
+    top: 150px; left: 200px; bottom: 0; right: 0;
+    box-shadow: 0 0 0 210px #5D3A3A;
+  }
