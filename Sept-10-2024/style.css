@@ -1,0 +1,19 @@
+  .container {
+    width: 250px;
+    height: 180px;
+    background: #F5F5F5;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    box-shadow: 0 0 0 100px #6592CF;
+  }
+  .rect {
+    width: 50px;
+    height: 160px;
+    background: #6592CF;
+    position: absolute;
+    margin: auto;
+    top: -28; left: 0; bottom: 0; right: 0;
+    box-shadow: -75px 28px 0 0px #6592CF,
+                75px 28px 0 0px #6592CF;
+  }
