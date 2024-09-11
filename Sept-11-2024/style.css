@@ -1,0 +1,23 @@
+  body {
+    background: #F7EC7D;
+  }
+  [circ] {
+    width: 90px;
+    height: 90px;
+    background: #F7EC7D;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0 0 0 50px #222222;
+  }
+  
+  [rect] {
+    width: 246px;
+    height: 50px;
+    background: #222222;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  
