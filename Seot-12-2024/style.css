@@ -1,0 +1,14 @@
+  div {
+    width: 200px;
+    height: 200px;
+    background: #F8D2D1;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 65px;
+    box-shadow: -55px -150px 0 -50px #9076D8,
+                 55px -150px 0 -50px #9076D8,
+                -55px 150px 0 -50px #9076D8,
+                55px 150px 0 -50px #9076D8,
+                5px 0px 0 150px #F8D2D1;
+  }
