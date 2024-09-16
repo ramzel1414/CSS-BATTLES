@@ -1,0 +1,22 @@
+
+  [triangle] {
+    width: 0px;
+    height: 0px;
+    border-right: 30px solid transparent;
+    border-left: 30px solid transparent;
+    border-bottom: 54px solid #FFFFFF;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 14; bottom: 0; right: 0;
+    transform: rotate(90deg);
+  }
+  [container] {
+    background: #EA333D;
+    height: 140px;
+    width: 200px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 40px;
+    box-shadow: 0 0 0 100vw #191919;
+  }
