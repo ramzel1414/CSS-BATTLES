@@ -1,0 +1,30 @@
+body {
+  background: #EA9A52;
+}
+[river] {
+  width: 400px;
+  height: 100px;
+  background: #515697;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[river]:before {
+  content: '';
+  width: 100px;
+  height: 100px;
+  background: #FCEBEB;
+  position: absolute;
+  margin: auto;
+  top: -200; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;;
+}
+[river]:after {
+  content: '';
+  width: 100px;
+  height: 100px;
+  background: #515697;
+  position: absolute;
+  margin: auto;
+  top: 150; left: 0; bottom: 0; right: 0;;
+}
