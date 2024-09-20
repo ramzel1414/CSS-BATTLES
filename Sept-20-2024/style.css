@@ -1,0 +1,21 @@
+body {
+  background: #2F5A76;
+}
+[rect1] {
+  width: 560px;
+  height: 80px;
+  background: #F5BB60;
+  position: absolute;
+  margin: auto;
+  top: 10; left: -70; bottom: 0; right: 0;
+  transform: rotate(30deg);
+}
+[rect2] {
+  width: 560px;
+  height: 80px;
+  background: #F5BB60;
+  position: absolute;
+  margin: auto;
+  top: -10; left: -70; bottom: 0; right: 0;
+  transform: rotate(-30deg);
+}
