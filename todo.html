@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo</title>
+</head>
+<body>
+  <p>Todo LIsts</p>
+<input class='input'/>
+<button class='btn'>Add</button>
+<div class='display'></div>
+
+<script>
+
+  const todoLists = [];
+    
+  const input = document.querySelector('.input');
+  const display = document.querySelector('.display');
+  const btn = document.querySelector('.btn');
+  btn.addEventListener('click', () => { todo(); });
+  
+  function todo() {
+    
+      const inputValue = input.value;
+      todoLists.push(inputValue);
+      input.value = '';
+    
+      let todoHTML = ''
+
+      for(let todo of todoLists) {
+        let html = `<p>${todo}</p>`
+        todoHTML += html;
+      }
+      display.innerHTML = todoHTML;
+
+  }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+[oval] {
+  width: 130px;
+  height: 160px;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 100vw #E3516E;
+}
+[c1] {
+  width: 130px;
+  aspect-ratio: 1/1;
+  background: transparent;
+  position: absolute;
+  margin: auto;
+  top: 10; left: 10; bottom: 0; right: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 10px #E3516E;
+}
+[c2] {
+  width: 110px;
+  aspect-ratio: 1/1;
+  background: transparent;
+  position: absolute;
+  margin: auto;
+  top: 40; left: 30; bottom: 0; right: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 10px #E3516E;
+}
+[c3] {
+  width: 90px;
+  aspect-ratio: 1/1;
+  background: transparent;
+  position: absolute;
+  margin: auto;
+  top: 70; left: 50; bottom: 0; right: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 10px #E3516E;
+}
+[c4] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: transparent;
+  position: absolute;
+  margin: auto;
+  top: 100; left: 70; bottom: 0; right: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 10px #E3516E;
+}
+[c5] {
+  width: 50px;
+  aspect-ratio: 1/1;
+  background: transparent;
+  position: absolute;
+  margin: auto;
+  top: 130; left: 90; bottom: 0; right: 0;
+  border-radius: 60%;
+  box-shadow: 0 0 0 10px #E3516E;
+}

@@ -19,4 +19,19 @@ function more4than0(n) {
   return countFour > countZero;
 }
 
-console.log(more4than0([4,0,4,0,4]))
+
+function counting() {
+
+  let counter = 0;
+
+  for(let i = 0; i < 3; i++) {
+    setTimeout(() => {
+      counter++;
+      console.log(counter);
+    },2000);
+  }
+}
+
+const fun = counting()
+
+
