@@ -1,0 +1,24 @@
+[circle] {
+  width: 90px; 
+  height: 90px; 
+  background: #70CEAF; 
+   position: absolute;
+   margin: auto;
+   inset: 0;
+   border-radius: 100%;
+   box-shadow: 0 0 0 25px #0E532F,
+               0 0 0 70px #70CEAF,
+               0 0 0 95px #0E532F,
+               0 0 0 180px #70CEAF;
+ }
+ 
+ [rect] {
+   width: 140px; 
+   height: 25px; 
+   background: #0E532F; 
+   position: absolute;
+   margin: auto;
+   top: -135; left: 0; bottom: 0; right: 0;
+   box-shadow: 0 135px 0 #0E532F;
+ }
+ 
