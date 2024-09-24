@@ -1,0 +1,29 @@
+body {
+  background: #9076D8;
+}
+[r1] {
+  width: 42px;
+  height: 200px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  top: 0; left: -90; bottom: 0; right: 0;
+}
+[r2] {
+  width: 40px;
+  height: 140px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  top: -70; left: -0; bottom: 0; right: 0;
+  transform: rotate(45deg)
+}
+[r3] {
+  width: 40px;
+  height: 140px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  top: 70; left: -0; bottom: 0; right: 0;
+  transform: rotate(135deg)
+}
