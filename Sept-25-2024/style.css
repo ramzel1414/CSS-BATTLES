@@ -1,0 +1,21 @@
+[rect] {
+  width: 100px;
+  height: 70px;
+  background: #F3AC3C;
+  position: absolute;
+  margin: auto;
+  top: -85; left: 0; bottom: 0; right: 0;
+  box-shadow: -100px 85px 0 #F3AC3C,
+              100px 85px 0 #F3AC3C,
+              0 0 0 170px #0B2429; 
+}
+[square] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: #F3AC3C;
+  position: absolute;
+  margin: auto;
+  top: 85; left: 0; bottom: 0; right: 0;
+  box-shadow: -100px -85px 0 #F3AC3C,
+              100px -85px 0 #F3AC3C; 
+}
