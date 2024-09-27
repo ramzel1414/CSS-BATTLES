@@ -1,0 +1,30 @@
+[circ] {
+  width: 88px;
+  height: 75px;
+  background: #F9DDC6;
+  position: absolute;
+  margin: auto;
+  top: -50; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+}
+[trapz] {
+  width: 130px; height: 0;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-bottom: 90px solid #594C94;
+  background: #F9DDC6;
+  position: absolute;
+  margin: auto;
+  top: -120; left: 0; bottom: 0; right: 0;
+  box-shadow: 0 0 0 160px #F9DDC6;
+}
+[trapz]::after {
+  content: '';
+  width: 130px; height: 0;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-top: 90px solid #594C94;
+  position: absolute;
+  margin: auto;
+  top: 160; left: -70; bottom: 0; right: 0;
+}
