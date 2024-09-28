@@ -1,0 +1,13 @@
+div {
+  width: 50px;
+  aspect-ratio: 1/1;
+  background: #C3D1A5;
+  position: absolute;
+  margin: auto;
+  top: 0; left: 0;
+  box-shadow: 104px 56px 0 24px #C3D1A5,
+              54px 106px 0 24px #C3D1A5,
+              160px 160px 0 0 #C3D1A5,
+              60px 56px 0 100px #374812,
+              60px 56px 0 300px #C3D1A5;
+}
