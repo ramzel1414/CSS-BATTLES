@@ -1,0 +1,20 @@
+div {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 200px #F3EAD2;
+}
+div::after {
+  content: '';
+  width: 0px; height: 0px;
+  border-left: 85px solid transparent;
+  border-right: 85px solid transparent;
+  border-bottom: 85px solid #F3EAD2;
+  position: absolute;
+  margin: auto;
+  top: -60; left: -60; bottom: 0; right: 0;
+  transform: rotate(-45deg);
+}
