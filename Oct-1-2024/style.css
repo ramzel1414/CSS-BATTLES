@@ -1,0 +1,31 @@
+[shade] {
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: transparent;  
+  position: absolute;
+  margin: auto;
+  top: -70px; left: 0px; bottom: 0; right: 0;
+  border-top-right-radius: 999px;
+  box-shadow: 25px -25px 0 25px #E25C57;
+}
+[shade]::after {
+  content: '';
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: transparent;  
+  position: absolute;
+  margin: auto;
+  top: 150px; left: 0px; bottom: 0; right: 0;
+  border-top-left-radius: 999px;
+  box-shadow: -26px -25px 0 25px #E25C57;
+}
+[box] {
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: #F4DA64;
+  position: absolute;
+  margin: auto;
+  top: 180px; left: 120px; bottom: 0; right: 0;
+  box-shadow: 0px 0px 0 235px #3F4869;
+  
+}
