@@ -1,0 +1,21 @@
+body {
+  background: #6B7CBE
+}
+[cicrcle] {
+  width: 500px;
+  aspect-ratio: 1/1;    
+  background: #ABC497;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 380; left: -50; bottom: 0; right: 0;
+}
+[road] {
+  width: 53; height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 350px solid #FFFEFE;
+  position: absolute;
+  margin: auto;
+  top: 308; left: 0; bottom: 0; right: 0;
+}
