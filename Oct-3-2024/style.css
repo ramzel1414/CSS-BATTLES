@@ -1,0 +1,37 @@
+[oval] {
+  width: 260px;
+  height: 80px;
+  background: #594C94;
+  position: absolute;
+  margin: auto;
+  top: -60; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+}
+[tri1] {
+  width: 0; height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 50px solid #FADE8B;
+  position: absolute;
+  margin: auto;
+  top: -60; left: -130; bottom: 0; right: 0;
+  transform: rotate(-90deg);
+}
+[tri2] {
+  width: 0; height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 50px solid #FADE8B;
+  position: absolute;
+  margin: auto;
+  top: -60; left: 130; bottom: 0; right: 0;
+  transform: rotate(90deg);
+}
+[post] {
+  width: 80px; height: 220px;
+  background: #594C94;
+  position: absolute;
+  margin: auto;
+  top: 80; left: 0; bottom: 0; right: 0;
+  box-shadow: 0 0 0 160px #FADE8B;
+}
