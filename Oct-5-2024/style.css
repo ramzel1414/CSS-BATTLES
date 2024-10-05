@@ -1,0 +1,43 @@
+body {
+  background: #3F4869;
+}
+[eye1] {
+  height: 60;
+  width: 40;
+  background: #242A42;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 50; left: -105; bottom: 0; right: 0;
+  transform: rotate(-50deg);
+}
+[eye2] {
+  height: 60;
+  width: 40;
+  background: #242A42;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 50; left: 105; bottom: 0; right: 0;
+  transform: rotate(50deg);
+}
+[up] {
+  width: 180px;
+  height: 220px;
+  background: #61A74E;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[low] {
+  width: 30px;
+  height: 0px;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  border-top: 75px solid #61A74E;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top: 175; left: 0; bottom: 0; right: 0;
+}
