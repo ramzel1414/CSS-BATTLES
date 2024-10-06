@@ -1,0 +1,16 @@
+div {
+  width: 200px;
+  height: 30px;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  top: -210; left: 160; bottom: 0; right: 0;
+  box-shadow: -140px 30px #EAC049,
+              -20px 60px #EAC049,
+              -120px 90px #EAC049,
+              -40px 120px #EAC049,
+              -100px 150px #EAC049,
+              -60px 180px #EAC049,
+              -80px 210px #EAC049,
+              0 0 0 250px #434B92;
+}
