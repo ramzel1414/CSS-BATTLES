@@ -1,27 +1,25 @@
-[hor] {
-  width: 100%;
-  height: 150;
-  background: #243D83;
-  position: absolute;
-  margin: auto;
-  inset: 0;
-  box-shadow: 0 0 0 100px #6592CF;
+body {
+  background: #8AB8B6;
 }
-[ver] {
-  width: 150px;
-  height: 100%;
-  background: #243D83;
-  position: absolute;
-  margin: auto;
-  inset: 0;
-}
-[circ] {
-  width: 150px;
+[right] {
+  width: 60px;
   aspect-ratio: 1/1;
-  background: #243D83;
-  border-radius: 50%;
+  background: #D96C7B;
   position: absolute;
   margin: auto;
-  inset: 0;
-  box-shadow: 0 0 0 52px #6592CF;
+  top: 0; left: 60; bottom: 0; right: 0;
+  border-radius: 50%;
+  box-shadow: -120px 0 0 #D96C7B,
+              120px 0 0 #D96C7B;
+}
+[left] {
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  top: 0; left: -60; bottom: 0; right: 0;
+  border-radius: 50% 0 0 50%;
+  box-shadow: -120px 0 0 #F3EAD2,
+              120px 0 0 #F3EAD2;
 }

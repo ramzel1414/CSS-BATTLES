@@ -1,0 +1,19 @@
+[box1] {
+  width: 150px;
+  aspect-ratio: 1/1;
+  background: #b5e0ba;
+  position: absolute;
+  margin: auto;
+  top: -50; left: 0; bottom: 0; right: 0;
+  box-shadow: 0 25px 0 25px #5d3a3a,
+              0 0 0 130px #b5e0ba;
+}
+[box2] {
+  width: 50px;
+  aspect-ratio: 1/1;
+  background: #b5e0ba;
+  position: absolute;
+  margin: auto;
+  top: 0; left: 50; bottom: 0; right: 0;
+  box-shadow: 0 -25px 0 25px #5d3a3a;
+}
