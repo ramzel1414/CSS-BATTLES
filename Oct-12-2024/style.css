@@ -1,0 +1,29 @@
+body {
+  background: #3F4869
+}
+[circle1] {
+  width: 140px;
+  aspect-ratio: 1/1;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  top: -90; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+  /* box-shadow: 0 90px #61A74E; */
+}
+[rect] {
+  width: 90px; height: 50px;
+  background: #3F4869;
+  position: absolute;
+  margin: auto;
+  top: -40; left: -90; bottom: 0; right: 0;
+}
+[circle2] {
+  width: 140px;
+  aspect-ratio: 1/1;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  top: 90; left: 0; bottom: 0; right: 0;
+  border-radius: 50%;
+}
