@@ -1,0 +1,22 @@
+[container] {
+  width: 80px;
+  height: 120px;
+  background: #ffffff;
+  position: absolute;
+  margin: auto;
+  top: 0; left: -180; bottom: 0; right: 0; 
+  box-shadow: 0 0 0 20px #000,
+              180px 0 0 0 #FFF,
+              180px 0 0 20px #000;
+}
+[shelf] {
+  width: 60px; 
+  height: 40px;
+  background: #000;
+  position: absolute;
+  margin: auto;
+  top: -60; left: -140; bottom: 0; right: 0;
+  box-shadow: 0 60px 0 #000,
+              140px 60px 0 #000,
+              140px 0px 0 #000;
+}
