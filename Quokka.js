@@ -35,3 +35,14 @@ function counting() {
 const fun = counting()
 
 
+// counting 0-5
+// const name = (n) => {
+//   for (let i = 0; i <= n; i++) {
+
+//     setTimeout(() => {
+//       console.log(i);
+//     }, i * 1000);
+//   }
+// };
+
+// name(5);

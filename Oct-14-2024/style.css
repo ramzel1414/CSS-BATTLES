@@ -1,0 +1,29 @@
+[horizontal] {
+  width: 180px;
+  height: 50px;
+  background: #F7CB71;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[vertical] {
+  width: 50px;
+  height: 180px;
+  background: #F7CB71;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[circle] {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: #6592CF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 20px #F7CB71,
+              0 0 0 150px #6592CF;
+}
