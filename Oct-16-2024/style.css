@@ -1,0 +1,18 @@
+[square] {
+  width: 100px;
+  height: 100px;
+  background: #325853;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow:  0 0 0 160px #558C90;
+}
+[rect] {
+  width: 200px;
+  height: 28px;
+  background: #325853;
+  position: absolute;
+  margin: auto;
+  top: -170; left: 0; bottom: 0; right: 0; 
+  box-shadow:  0 170px 0 #325853;
+}
