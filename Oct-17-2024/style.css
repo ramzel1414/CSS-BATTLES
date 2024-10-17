@@ -1,0 +1,19 @@
+body {
+  background: #E38F66;
+}
+div {
+  width: 100px;
+  height: 40px;
+  background: #F7F3D7;
+  positioN: absolute;
+  margin: auto;
+  top: -100; left: -220; bottom: 0; right: 0;
+  box-shadow: 110px 0 #F7F3D7,
+              220px 0 #F7F3D7,
+              0 50px #F7F3D7,
+              110px 50px #F7F3D7,
+              220px 50px #F7F3D7,
+              0 100px #F7F3D7,
+              110px 100px #F7F3D7,
+              220px 100px #F7F3D7; 
+}
