@@ -1,0 +1,45 @@
+[a] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #191210;
+  position: absolute;
+  margin: auto;
+  top: -160; left: -160; bottom: 0; right: 0;
+  border-radius: 0 0 40px 0
+}
+[b] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #191210;
+  position: absolute;
+  margin: auto;
+  top: -160; left: 160; bottom: 0; right: 0;
+  border-radius: 0 0 0px 40px;
+}
+[d] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #191210;
+  position: absolute;
+  margin: auto;
+  top: 160; left: 160; bottom: 0; right: 0;
+  border-radius: 40px 0 0px 0px;
+}
+[e] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #191210;
+  position: absolute;
+  margin: auto;
+  top: 160; left: -160; bottom: 0; right: 0;
+  border-radius: 0px 40px 0px 0px;
+}
+[c] {
+  width: 240px;
+  aspect-ratio: 1/1;
+  background: #84271C;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 180px #191210;
+}
