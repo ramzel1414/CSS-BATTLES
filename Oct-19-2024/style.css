@@ -1,0 +1,20 @@
+[square] {
+  width: 50px;
+  height: 45px;
+  position: absolute;
+  margin: auto;
+  inset: -160px 0 0 0;
+  background: #E38F66;
+  border-radius: 20px 20px 0 0;
+}
+[circle] {
+  width: 120px;
+  height: 120px;
+  background: #62306D;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 40px #F7EC7D,
+              0 0 0 180px #62306D;
+}
