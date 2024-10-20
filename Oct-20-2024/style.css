@@ -1,0 +1,19 @@
+  [oval] {
+    width: 130px;
+    height: 90px;
+    background: #F3AC3C;
+    border-radius: 50px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+  }
+  [square] {
+    width: 90px;
+    aspect-ratio: 1/1;
+    background: #998235;
+    position: absolute;
+    margin: auto;
+    inset: -220px 0 0 0;
+    box-shadow: 0 220px 0 #998235,
+                0 0 0 220px #0B2429;
+  }
