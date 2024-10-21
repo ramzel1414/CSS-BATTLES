@@ -1,0 +1,20 @@
+[fill] {
+  width: 200px;
+  height: 80px;
+  background: #E05947;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[outlined] {
+  width: 40px;
+  height:170px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50px;
+  box-shadow: 0 0 0 15px #E05947;
+}
+body { background: #F0F0F0; }
