@@ -1,0 +1,12 @@
+[oval] {
+  width: 100px;
+  height: 80px;
+  background: #F7EC7D;
+  position: absolute;
+  margin: auto;
+  inset: 0 -140px 0 0;
+  border-radius: 50%;
+  box-shadow: -70px 0 #62306D,
+              -142px 0 #F7EC7D,
+               0 0 0 300px #62306D; 
+}
