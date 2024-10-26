@@ -1,0 +1,23 @@
+body {
+  background: #191210;
+}
+[hor] {
+  width: 260px;
+  height: 75px;
+  background: #84271C;
+  border-radius: 50px;
+  position: absolute;
+  margin: auto;
+  top: 225px; left: -180px; bottom: 0; right: 0;
+  box-shadow: 180px -226px 0 #84271C;
+}
+[ver] {
+  width: 75px;
+  height: 255px;
+  background: #84271C;
+  border-radius: 50px;
+  position: absolute;
+  margin: auto;
+  top: 150px; left: -325px; bottom: 0; right: 0;
+  box-shadow: 325px -150px 0 #84271C;
+}
