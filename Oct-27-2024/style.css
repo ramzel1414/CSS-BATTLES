@@ -1,0 +1,29 @@
+[stars] {
+  width: 120px;
+  height: 120px;
+  background: #ECA03D;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[circles] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #191210;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 65px 0 #191210,
+              -65px 0 #191210,
+              0 -80px #191210,
+              0 80px #191210,
+              -65px -80px #191210,
+              65px -80px #191210,
+              65px 80px #191210,
+              -65px 80px #191210,
+              0 0 300px #191210; 
+}
+body {
+  background: #191210;
+}
