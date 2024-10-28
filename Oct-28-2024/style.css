@@ -1,0 +1,39 @@
+body {
+  background: #4A9A86;
+}
+[c1] {
+  width: 120px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #4A9A86 50%, transparent 50%);
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: -40px 0 0 0;
+}
+[c1-back] {
+  width: 160px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #F0F0F0 50%, transparent 50%);
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: -40px 0 0 0;
+}
+[c2] {
+  width: 120px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #4A9A86 50%, transparent 50%);
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 80px 0 0 0;
+}
+[c2-back] {
+  width: 160px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #F0F0F0 50%, transparent 50%);
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 80px 0 0 0;
+}
