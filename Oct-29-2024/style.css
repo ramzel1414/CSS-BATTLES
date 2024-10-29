@@ -1,0 +1,42 @@
+[square1] {
+  width: 50px;
+  aspect-ratio: 1/1;
+  background: #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[square2] {
+  width: 100px;
+  aspect-ratio: 1/1;
+  background: #D96E9F;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 20%;
+}
+[square3] {
+  width: 150px;
+  aspect-ratio: 1/1;
+  background: #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[square4] {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: #D96E9F;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 20%;
+}
+[square5] {
+  width: 400px;
+  aspect-ratio: 1/1;
+  background: #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
