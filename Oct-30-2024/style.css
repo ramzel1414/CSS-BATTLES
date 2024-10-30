@@ -1,0 +1,21 @@
+[rect] {
+  width: 320px;
+  height: 220px;
+  background: #AA445F;
+  position: absolute;
+  margin: auto;
+  inset: 0; 
+  box-shadow: 0 0 0 40px #EEB850;
+}
+[rect-over] {
+  width: 140px;
+  height: 80px;
+  background: #EEB850;
+  position: absolute;
+  margin: auto;
+  inset: -220px 0 0 0;
+  border-radius: 50px;
+  box-shadow: 0 220px 0 #EEB850;
+}
+
+
