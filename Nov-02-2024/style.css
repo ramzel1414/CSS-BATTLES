@@ -1,0 +1,28 @@
+body {
+  background: #9D92C8;
+}
+[inside] {
+  width: 90px;
+  height: 170px;
+  background: #9D92C8;
+  position: absolute;
+  margin: auto;
+  inset: 50px -130px 0 0;
+  border-radius: 50px 50px 0 0;
+}
+[outside] {
+  width: 170px;
+  height: 210px;
+  background: linear-gradient(to right, #F9DDC6 50%, #9D92C8 50%);
+  position: absolute;
+  margin: auto;
+  inset: 10px -130px 0 0;
+  border-radius: 80px 80px 0 0;
+}
+[hor] {
+  width: 120px; height: 40px;
+  background: #F9DDC6;
+  position: absolute;
+  margin: auto;
+  inset: 90px 0 0 0;
+}
