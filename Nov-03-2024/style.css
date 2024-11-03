@@ -1,0 +1,32 @@
+[vers] {
+  height: 60px;
+  width: 16.25px;
+  background-color: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: 180px 0 0 0;
+  box-shadow: 25px 0 #D95362,
+              50px 0 #D95362,
+              -25px 0 #D95362,
+              -50px 0 #D95362;
+}
+body {
+  background: #2D3464;
+}
+[rect] {
+  width: 120px;
+  height: 120px;
+  background: #C0D6E7;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[oval] {
+  width: 160px;
+  height: 80px;
+  background: #C0D6E7;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50px
+}
