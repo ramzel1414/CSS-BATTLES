@@ -1,0 +1,19 @@
+[rect1] {
+  width: 160px;
+  height: 140px;
+  background: #E38F66;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+
+}
+[rect2] {
+  width: 180px;
+  height: 130px;
+  background: #AA445F;
+  position: absolute;
+  margin: auto;
+  inset: -170px -220px 0 0;
+  box-shadow: -220px 170px 0 0 #AA445F, 
+              0 0 0 250px #62306D;
+}
