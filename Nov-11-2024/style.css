@@ -1,0 +1,20 @@
+body {
+  background: #328FC1;
+}
+[oval] {
+  width: 112px;
+  height: 60px;
+  background: #ffffff;
+  position: absolute;
+  margin: auto;
+  inset: -240px 0 0 0;
+  border-radius: 50%;
+  box-shadow: 0 -40px 0 #ffffff,
+              0 40px 0 #ffffff,
+              0 80px 0 #ffffff,
+              0 120px 0 #ffffff,
+              0 160px 0 #ffffff,
+              0 200px 0 #ffffff,
+              0 240px 0 #ffffff,
+              0 280px 0 #ffffff;
+}
