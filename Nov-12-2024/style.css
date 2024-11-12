@@ -1,0 +1,28 @@
+body {
+  background: #E05947
+}
+[rect-bt] {
+  width: 360px;
+  height: 90px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: -220px 0 0 0;
+  box-shadow: 0 220px 0 #F0F0F0;
+}
+[rect-v] {
+  width: 132px;
+  height: 170px;
+  background: #E05947;
+  position: absolute;
+  margin: auto;
+  inset: 0 0 0 0;
+}
+[rect-m] {
+  width: 360px;
+  height: 20px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: 0 0 0 0;
+}
