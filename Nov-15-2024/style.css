@@ -1,0 +1,46 @@
+[rect1] {
+  width: 174px;
+  height: 120px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[round1-r] {
+  width: 80px;
+  height: 120px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0 -140px 0 0;
+  border-radius: 50%;
+}
+[round1-l] {
+  width: 80px;
+  height: 120px;
+  background: #243D83;
+  position: absolute;
+  margin: auto;
+  inset: 0 140px 0 0;
+  border-radius: 50%;
+}
+[rect2] {
+  width: 134px;
+  height: 120px;
+  background: #243D83;
+  position: absolute;
+  margin: auto;
+  inset: 0 40px 0 0;
+}
+[round2-r] {
+  width: 80px;
+  height: 120px;
+  background: #243D83;
+  position: absolute;
+  margin: auto;
+  inset: 0 -60px 0 0;
+  border-radius: 50%;
+}
+body {
+  background: #FADE8B;
+}
