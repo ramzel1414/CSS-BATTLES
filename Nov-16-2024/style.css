@@ -1,0 +1,17 @@
+div {
+  width: 70px;
+  height: 30px;
+  background: #EEB850;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -106px -76px 0 #EEB850,
+              106px -76px 0 #EEB850,
+              -106px 76px 0 #EEB850,
+              106px 76px 0 #EEB850,
+              0px -76px 0 #243D83,
+              0px 76px 0 #243D83,
+              106px 0 0 #243D83,
+              -106px 0 0 #243D83,
+              0 0 0 170px #6592CF;
+}
