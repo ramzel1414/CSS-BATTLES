@@ -1,0 +1,17 @@
+[square-out] {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 150px #FADE8B;
+}
+[square-in] {
+  width: 100px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom right, #3F7331 50%, #FADE8B 50%);
+  position: absolute;
+  margin: auto;
+  inset: 100px -100px 0 0;
+}
