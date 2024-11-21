@@ -1,0 +1,28 @@
+[c] {
+  width: 120px;
+  height: 100px;
+  background: #F3EAD2;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: -110px 0 0 0;
+}
+[s] {
+  width: 100px;
+  height: 100px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  inset: 70px 0 0 0;
+}
+[r] {
+  width: 120px;
+  height: 26px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  inset: 190px 0 0 0;
+}
+body {
+  background: #63A3A0;
+}
