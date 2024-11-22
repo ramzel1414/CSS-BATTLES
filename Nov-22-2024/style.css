@@ -1,0 +1,20 @@
+[center] {
+  width: 180px;
+  height: 90px;
+  background: #984842;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 150px #ECD5E4;
+}
+[corners] {
+  width: 60px;
+  height: 30px;
+  background: #984842;
+  position: absolute;
+  margin: auto;
+  inset: -270px 400px 0 0;
+  box-shadow: 340px 0 0 #984842,
+              340px 270px 0 #984842,
+              0px 270px 0 #984842;
+}
