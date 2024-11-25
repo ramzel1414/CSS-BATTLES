@@ -1,13 +1,19 @@
-[lift] {
-  width: 100px;
-  height: 20px;
+[rect-out] {
+  width: 220px;
+  height: 110px;
+  background: #243D83;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 20px;
+  box-shadow: 0 0 0 150px #EEB850;
+}
+[rect-in] {
+  width: 71px;
+  height: 15px;
   background: #EEB850;
   position: absolute;
-  inset: 0;
   margin: auto;
-  box-shadow: -124px -22px 0 #EEB850,
-              -124px 22px 0 #EEB850,
-              124px -22px 0 #EEB850,
-              124px 22px 0 #EEB850,
-              0 0 0 150px #328FC1;;
+  inset: -56px 0 0 0;
+  box-shadow: 0 56px 0 0 #EEB850;
 }
