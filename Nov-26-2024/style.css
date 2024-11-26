@@ -1,0 +1,39 @@
+body {
+  background: #6255AA;
+}
+[hor] {
+  width: 30px; height: 30px;
+  background: #DE88AF;
+  margin: auto;
+  position: absolute;
+  inset: 90px 0px 0 0;
+  box-shadow: 60px 0 #DE88AF;
+}
+[ver] {
+  width: 30px; height: 150px;
+  background: #DE88AF;
+  margin: auto;
+  position: absolute;
+  inset: 150px 60px 0 0;
+  box-shadow: 60px 0 #DE88AF;
+}
+[circle-out] {
+  width: 120px;
+  aspect-ratio: 1/1;
+  background: #DE88AF;
+  border-radius: 50%;
+  margin: auto;
+  position: absolute;
+  inset: 0 150px 0 0;
+  box-shadow: 150px 0 #DE88AF;
+}
+[circle-in] {
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: #6255AA;
+  border-radius: 50%;
+  margin: auto;
+  position: absolute;
+  inset: 0 150px 0 0;
+  box-shadow: 150px 0 #6255AA;
+}
