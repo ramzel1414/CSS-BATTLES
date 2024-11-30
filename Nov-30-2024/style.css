@@ -1,0 +1,32 @@
+[left] {
+  width: 160px;
+  height: 40px;
+  background: #8F3F4A;
+  position: absolute;
+  margin: auto;
+  inset: 0 60px 0 0;
+  transform: rotate(70deg);
+}
+[right] {
+  width: 160px;
+  height: 40px;
+  background: #D96C7B;
+  position: absolute;
+  margin: auto;
+  inset: 0 -60px 0 0;
+  transform: rotate(-70deg);
+}
+[hor] {
+  width: 100%;
+  height: 10px;
+  background: #F3EAD2;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 -105px 0 30px #F3EAD2,
+              0 105px 0 30px #F3EAD2,
+              0 -16px 0 5px #8F3F4A;
+}
+body {
+  background: #F3EAD2;
+}
