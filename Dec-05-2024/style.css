@@ -1,0 +1,30 @@
+body {
+  background-color: #F2EAA8
+}
+[c1] {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #7E6293 50%, #DE6B67 50%);
+  border-radius: 50%;
+  inset: 0 150px 0 0;
+  margin: auto;
+  position: absolute;
+}
+[c2] {
+  width: 100px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #DE6B67 50%, #7E6293 50%);
+  border-radius: 50%;
+  inset: 0 -150px 0 0;
+  margin: auto;
+  position: absolute;
+}
+[c3] {
+  width: 50px;
+  aspect-ratio: 1/1;
+  background: linear-gradient(to bottom, #7E6293 50%, #DE6B67 50%);
+  border-radius: 50%;
+  inset: 0 -300px 0 0;
+  margin: auto;
+  position: absolute;
+}
