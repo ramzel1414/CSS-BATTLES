@@ -1,0 +1,28 @@
+[white] {
+  background: #FFFFFF;
+  width: 400px; height: 200px;
+  position: absolute;
+  margin: auto;
+  inset: 200px 0 0 0; 
+}
+body {
+  background: #63A3A0;
+}
+[c1] {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background: #0B2429;
+  border-radius: 50%;
+  margin: auto;
+  inset: 0;
+  position: absolute;
+}
+[c2] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #FFFFFF;
+  border-radius: 50%;
+  margin: auto;
+  inset: 0;
+  position: absolute;
+}
