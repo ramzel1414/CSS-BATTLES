@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to bottom, #6255AA 50%, #DBD7F6 50%)
+}
+[box-big] {
+  width: 250px;
+  height: 200px;
+  background: linear-gradient(to bottom, #DBD7F6 50%, #6255AA 50%);
+  margin: auto;
+  position: absolute;
+  inset: 0;
+}
+[box-small] {
+  width: 100px;
+  height: 100px;
+  background: linear-gradient(to bottom, #6255AA 50%, #DBD7F6 50%);
+  margin: auto;
+  position: absolute;
+  inset: 0;
+}
