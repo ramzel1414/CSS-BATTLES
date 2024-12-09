@@ -1,0 +1,29 @@
+[front] {
+  width: 140px;
+  height: 180px;
+  background: #C3463D;
+  margin: auto;
+  inset: -60px 260px 0 0;
+  position: absolute;
+}
+[back] {
+  width: 300px;
+  height: 180px;
+  background: #A52F28;
+  margin: auto;
+  inset: 60px 260px 0 0;
+  position: absolute;
+}
+[triangle] {
+  width: 0; height: 0;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 80px solid #F0DAC1;
+  margin: auto;
+  inset: 60px -120px 0 0;
+  position: absolute;
+  transform: rotate(-90deg);
+}
+body {
+  background: #F0DAC1;
+}
