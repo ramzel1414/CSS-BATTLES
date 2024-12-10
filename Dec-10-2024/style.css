@@ -1,0 +1,43 @@
+[box1] {
+  width: 140px;
+  height: 100px;
+  background: #C3463D;
+  margin: auto;
+  position: absolute;
+  inset: -152px 0 0 0;
+}
+[box2] {
+  width: 140px;
+  height: 180px;
+  background: #5DBCF9;
+  margin: auto;
+  position: absolute;
+  inset: 0 192px 0 0;
+}
+[box3] {
+  width: 140px;
+  height: 100px;
+  background: #C3463D;
+  margin: auto;
+  position: absolute;
+  inset: 152px 0 0 0;
+}
+[box4] {
+  width: 140px;
+  height: 180px;
+  background: #5DBCF9;
+  margin: auto;
+  position: absolute;
+  inset: 0 -192px 0 0;
+}
+[overlay] {
+  width: 70px;
+  height: 100px;
+  background: #C3463D;
+  margin: auto;
+  position: absolute;
+  inset: -152px -70px 0 0;
+}
+body {
+  background: #FADE8B;
+}
