@@ -1,0 +1,31 @@
+body {
+  background: #61A74E;
+}
+[c-out] {
+  width: 180px;
+  aspect-ratio: 1/1;
+  background: #FADE8B;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: -60px 0 0 0;
+}
+[c-in] {
+  width: 40px;
+  height: 120px;
+  background: #61A74E;
+  border-radius: 50px;
+  position: absolute;
+  margin: auto;
+  inset: -60px 0 0 0;
+}
+[tail] {
+  width: 180px;
+  height: 60px;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 150px 0 0 0;
+  transform: rotate(30deg);
+  border-radius: 60px 0;
+}
