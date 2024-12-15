@@ -1,0 +1,30 @@
+[box] {
+  width: 190px;
+  height: 140px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 30px #E05947;
+}
+[cir] {
+  width: 140px;
+  height: 140px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: 0 -250px 0 0;
+  box-shadow: 0 0 0 30px #E05947;
+  border-radius: 50%;
+}
+[over] {
+  width: 190px;
+  height: 200px;
+  background: #F0F0F0;
+  position: absolute;
+  margin: auto;
+  inset: 0 -440px 0 0;
+}
+body {
+  background-color: #F0F0F0;
+}
