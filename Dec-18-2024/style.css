@@ -1,0 +1,25 @@
+[right] {
+  width: 0px;
+  height: 0px;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  border-bottom: 85px solid #EA9A52;
+  position: absolute;
+  margin: auto;
+  inset: 0 -115px 0 0;
+  transform: rotate(90deg);
+}
+[left] {
+  width: 0px;
+  height: 0px;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  border-bottom: 85px solid #EA9A52;
+  position: absolute;
+  margin: auto;
+  inset: 0 115px 0 0;
+  transform: rotate(-90deg);
+}
+body {
+  background: #FAE29E;
+}
