@@ -1,0 +1,15 @@
+div {
+  width: 40px;
+  aspect-ratio: 1/1;
+  background: #CF81AF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -60px 0 0 #CF81AF,
+              60px 0 0 #CF81AF,
+              0 -60px 0 #CF81AF,
+              0 60px 0 #CF81AF;
+}
+body {
+  background: #35312F
+}
