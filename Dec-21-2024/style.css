@@ -1,0 +1,22 @@
+body {
+  background: #EA9A52;
+}
+[rect] {
+  width: 110px;
+  height: 30px;
+  background: #435998;
+  position: absolute;
+  margin: auto;
+  inset: -186px 0px 0 0;
+  transform: rotate(-45deg);
+}
+[circle] {
+  width: 100px;
+  height: 100px;
+  background: #EA9A52;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 30px #435998;
+}
