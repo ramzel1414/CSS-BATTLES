@@ -1,0 +1,30 @@
+body {
+  background: #6D62BA;
+}
+[circle] {
+  width: 92px;
+  height: 92px;
+  background: #A1E6E4;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[ver] {
+  width: 90px;
+  height: 30px;
+  background: #A1E6E4;
+  position: absolute;
+  margin: auto;
+  inset: -180px 0 0 0;
+  box-shadow: 0 180px 0 #A1E6E4;
+}
+[hor] {
+  width: 30px;
+  height: 90px;
+  background: #A1E6E4;
+  position: absolute;
+  margin: auto;
+  inset: 0px 180px 0 0;
+  box-shadow: 180px 0px 0 #A1E6E4;
+}
