@@ -1,0 +1,25 @@
+body {
+  background: #D96C7B;
+}
+[hor] {
+  width: 90px;
+  height: 30px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: -220px 0 0 0;
+  box-shadow: 0 38px 0 #FFFFFF,
+              0 178px 0 #FFFFFF,
+              0 220px 0 #FFFFFF;
+}
+[ver] {
+  width: 30px;
+  height: 90px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0 220px 0 0;
+  box-shadow: 40px 0 0 #FFFFFF,
+              180px 0 0 #FFFFFF,
+              220px 0 0 #FFFFFF;
+}
