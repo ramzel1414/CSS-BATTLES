@@ -1,0 +1,28 @@
+body {
+  background: #5393BD;
+}
+[rect-out] {
+  width: 200px;
+  height: 200px;
+  background: #FAE29E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[rect-in] {
+  width: 200px;
+  height: 200px;
+  background: #5393BD;
+  position: absolute;
+  margin: auto;
+  inset: -60px -60px 0 0;
+}
+[rect-slant] {
+  width: 32px;
+  height: 160px;
+  background: #FAE29E;
+  position: absolute;
+  margin: auto;
+  inset: 50px 50px 0 0;
+  transform: rotate(-45deg);
+}
