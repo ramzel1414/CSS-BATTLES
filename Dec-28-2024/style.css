@@ -1,0 +1,29 @@
+[square] {
+  width: 60px;
+  aspect-ratio: 1/1;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0 120px 0 0;
+}
+[rect1] {
+  width: 180px;
+  height: 60px;
+  background: #EA9A52;
+  position: absolute;
+  margin: auto;
+  inset: -120px 0px 0 0;
+  border-radius: 20px 20px 20px 0;
+}
+[rect2] {
+  width: 180px;
+  height: 60px;
+  background: #AA3440;
+  position: absolute;
+  margin: auto;
+  inset: 120px 0px 0 0;
+  border-radius: 0px 20px 20px 20px;
+}
+body {
+  background: #3F4869;
+}
