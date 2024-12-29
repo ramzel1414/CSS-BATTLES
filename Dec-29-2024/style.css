@@ -1,0 +1,22 @@
+body {
+  background: #7C9A81
+}
+[oval] {
+  width: 270px;
+  height: 90px;
+  background: #FFF9C6;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50px;
+}
+[circle] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: #EFCB5C;
+  position: absolute;
+  margin: auto;
+  inset: 0 -140px 0 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 30px #7C9A81;
+}
