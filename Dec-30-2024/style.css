@@ -1,0 +1,48 @@
+body {
+  background: #3F4869;
+}
+[c1] {
+  width: 130px;
+  aspect-ratio: 1/1;
+  background: #EFCB5C;
+  border-radius: 50%;
+  margin: auto;
+  inset: 0;
+  position: absolute;
+}
+[c2] {
+  width: 130px;
+  height: 150px;
+  background: #978963;
+  border-radius: 50%;
+  margin: auto;
+  inset: 0 142px 0 0;
+  position: absolute;
+}
+[c3] {
+  width: 80px;
+  height: 100px;
+  background: #3F4869;
+  border-radius: 50%;
+  margin: auto;
+  inset: 0 152px 0 0;
+  position: absolute;
+}
+[rect1] {
+  width: 80px;
+  height: 200px;
+  background: #3F4869;
+  margin: auto;
+  inset: -150px 152px 0 0;
+  position: absolute;
+  transform: rotate(55deg);
+}
+[rect2] {
+  width: 80px;
+  height: 200px;
+  background: #3F4869;
+  margin: auto;
+  inset: 150px 152px 0 0;
+  position: absolute;
+  transform: rotate(-55deg);
+}
