@@ -1,0 +1,24 @@
+body {
+  background: #3F9461;
+}
+[rect] {
+  width: 320px;
+  height: 180px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0
+}
+[over] {
+  width: 40px;
+  height: 150px;
+  background: #3F9461;
+  position: absolute;
+  margin: auto;
+  inset: 50px 40px 0 0;
+  box-shadow: -80px -120px 0 #3F9461,
+              -80px 70px 0 #3F9461,
+              80px -50px 0 #3F9461,
+              160px -120px 0 #3F9461,
+              160px 70px 0 #3F9461;
+}
