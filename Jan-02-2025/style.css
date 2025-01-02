@@ -1,0 +1,29 @@
+body {
+  background: #2F5A76;
+}
+[ver] {
+  width: 30px;
+  height: 90px;
+  background: #F5BB60;
+  position: absolute;
+  margin: AUTO;
+  inset: 0 300px 0 0;
+  box-shadow: 60px 0 0 #F5BB60,
+              120px 0 0 #F5BB60,
+              180px 0 0 #F5BB60,
+              240px 0 0 #F5BB60,
+              300px 0 0 #F5BB60;
+}
+[hor] {
+  width: 90px;
+  height: 30px;
+  background: #F5BB60;
+  position: absolute;
+  margin: AUTO;
+  inset: -180px 0 0 0;
+  box-shadow: -120px 0 0 #F5BB60,
+              120px 0 0 #F5BB60,
+              -120px 180px 0 #F5BB60,
+              0px 180px 0 #F5BB60,
+              120px 180px 0 #F5BB60;
+}
