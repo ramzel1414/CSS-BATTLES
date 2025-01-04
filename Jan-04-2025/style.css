@@ -1,0 +1,20 @@
+[rect1] {
+  width: 120px;
+  height: 190px;
+  background: #2F5A76;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #F3AC3C;
+}
+[rect2] {
+  width: 360px;
+  height: 60px;
+  background: #F3AC3C;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+body {
+  background: #2F5A76;
+}
