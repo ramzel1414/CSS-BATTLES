@@ -1,0 +1,28 @@
+[circle] {
+  width: 200px;
+  height: 200px;
+  background: #3BA44D;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[hor] {
+  width: 400px;
+  height: 50px;
+  background: #B8F4A6;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[ver] {
+  width: 50px;
+  height: 300px;
+  background: #B8F4A6;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+body {
+  background: #B8F4A6;
+}
