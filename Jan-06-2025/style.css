@@ -1,0 +1,12 @@
+[dia] {
+  width: 71px;
+  aspect-ratio: 1/1;
+  background: #3F4869;
+  transform: rotate(45deg);
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -110px -110px 0 40px #3F4869,
+              110px 110px 0 40px #3F4869,
+              0 0 0 700px #B8DCF0;;
+}
