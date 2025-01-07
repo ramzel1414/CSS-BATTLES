@@ -1,0 +1,22 @@
+[circles] {
+  width: 40px;
+  aspect-ratio: 1/1;
+  background: #4C4C6B;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -100px 0 0 #FAE29E,
+                100px 0 0 #FAE29E;
+}
+[squares] {
+  width: 80px;
+  aspect-ratio: 1/1;
+  background: #FAE29E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -100px 0 0 #4C4C6B,
+                100px 0 0 #4C4C6B,
+              0 0 0 200px #4A9A86;
+}
