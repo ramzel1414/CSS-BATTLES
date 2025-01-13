@@ -1,0 +1,28 @@
+[square] {
+  width: 160px;
+  aspect-ratio: 1/1;
+  background: #E8AD6D;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[circles] {
+  width: 20px;
+  aspect-ratio: 1/1;
+  background: #587795;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: -60px -60px 0 #587795,
+              0px -60px 0 #587795,
+              60px -60px 0 #587795,
+              -60px 0px 0 #587795,
+              60px 0px 0 #587795,
+              -60px 60px 0 #587795,
+              0px 60px 0 #587795,
+              60px 60px 0 #587795;
+}
+body {
+  background: #587795;
+}
