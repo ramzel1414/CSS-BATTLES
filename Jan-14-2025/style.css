@@ -1,0 +1,39 @@
+[crown] {
+  width: 120px;
+  height: 100px;
+  background: #EBE77E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[offset1] {
+  width: 0px;
+  height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 42px solid #DE817E;
+  position: absolute;
+  margin: auto;
+  inset: -58px 60px 0 0;
+}
+[offset2] {
+  width: 0px;
+  height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 42px solid #DE817E;
+  position: absolute;
+  margin: auto;
+  inset: -58px -60px 0 0;
+}
+[rect] {
+  width: 120px;
+  height: 20px;
+  background: #EBE77E;
+  position: absolute;
+  margin: auto;
+  inset: 140px 0 0 0;
+}
+body {
+  background: #DE817E;
+}
