@@ -1,0 +1,29 @@
+[trapz1] {
+  width: 125px; height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 32px solid #4F77FF;
+  position: absolute;
+  margin: auto;
+  inset: -60px 0 0 0;
+}
+[trapz2] {
+  width: 125px; height: 0px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 32px solid #4F77FF;
+  position: absolute;
+  margin: auto;
+  inset: 60px 0 0 0;
+}
+[ver] {
+  width: 30px; height: 100px;
+  background: #4F77FF;
+  position: absolute;
+  margin: auto;
+  inset: -250px 0 0 0;
+  box-shadow: 0 250px 0 #4F77FF;
+}
+body {
+  background: #E0E7FF
+}
