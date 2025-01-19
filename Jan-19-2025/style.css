@@ -1,0 +1,27 @@
+[rect] {
+  width: 140px;
+  aspect-ratio: 1/1;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 150px #328FC1
+}
+[circle1] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: -230px 350px 0 0;
+  border-radius: 0 0 150px 0;
+}
+[circle2] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 230px -330px 0 0;
+  border-radius: 150px 0 0 0;
+}
