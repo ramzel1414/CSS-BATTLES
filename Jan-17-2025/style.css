@@ -1,0 +1,46 @@
+[rect] {
+  width: 300px;
+  height: 200px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #fff,
+              0 0 0 50px #61A74E;
+}
+[left-rect] {
+  width: 20px;
+  height: 60px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0px 280px 0 0;
+  box-shadow: 0 0 0 20px #fff;
+}
+[right-rect] {
+  width: 20px;
+  height: 60px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0px -280px 0 0;
+  box-shadow: 0 0 0 20px #fff;
+}
+[ver] {
+  width: 20px;
+  height: 200px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[circle] {
+  width: 40px;
+  aspect-ratio: 1/1;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 20px #FFFFFF;
+}
