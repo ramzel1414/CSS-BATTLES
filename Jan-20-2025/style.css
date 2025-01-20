@@ -1,0 +1,19 @@
+[rect] {
+  width: 220px;
+  height: 278px;
+  background: #F9DDC6;
+  box-shadow: 0 0 0 200px #594C94;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[hor] {
+  width: 200px;
+  height: 26px;
+  background: #594C94;
+  position: absolute;
+  margin: auto;
+  inset: 0 -30px 0 0;
+  box-shadow: -32px -76px 0 #594C94,
+              -32px 76px 0 #594C94;
+}
