@@ -1,0 +1,19 @@
+[hor] {
+  width: 385px;
+  height: 140px;
+  background: #BFE33A;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 200px #2F5A76; 
+}
+[dia] {
+  width: 70px;
+  aspect-ratio: 1/1;
+  background: #BFE33A;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 40px #2F5A76;
+  transform: rotate(45deg);
+}
