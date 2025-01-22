@@ -1,0 +1,35 @@
+body {
+  background: #DE6B67;
+}
+[hor] {
+  width: 400px;
+  height: 26px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 152px 0 0 0;
+}
+[ver1] {
+  width: 80px;
+  height: 130px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 16px 0 0 0;
+}
+[ver2] {
+  width: 26px;
+  height: 130px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: -128px 0 0 0;
+}
+[ver3] {
+  width: 28px;
+  height: 130px;
+  background: #DE6B67;
+  position: absolute;
+  margin: auto;
+  inset: 128px 0 0 0;
+}
