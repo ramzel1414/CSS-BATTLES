@@ -1,0 +1,32 @@
+[rect-out] {
+  width: 240px;
+  height: 200px;
+  background: #2F5A76;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[rect-in] {
+  width: 240px;
+  height: 80px;
+  background: #A1E6E4;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 30px #2F5A76;
+}
+[squares] {
+  width: 30px;
+  aspect-ratio: 1/1;
+  background: #2F5A76;
+  position: absolute;
+  margin: auto;
+  inset: -58px 210px 0 0;
+  box-shadow: 0 60px 0 #2F5A76,
+              210px 60px 0 #2F5A76,
+              210px 0 0 #2F5A76;
+}
+body {
+  background: #A1E6E4;
+}
+
