@@ -1,0 +1,28 @@
+body {
+  background: #469DBA
+}
+[short] {
+  width: 60px;
+  height: 30px;
+  background: #F5E3B5;
+  position: absolute;
+  margin: auto;
+  inset: -240px 340px 0 0;
+  box-shadow: 340px 0 0 #F5E3B5,
+              0 240px 0 #F5E3B5,
+              340px 240px 0 #F5E3B5,
+              0px 120px 0 #F5E3B5,
+              340px 120px 0 #F5E3B5;
+}
+[long] {
+  width: 120px;
+  height: 30px;
+  background: #F5E3B5;
+  position: absolute;
+  margin: auto;
+  inset: -120px 340px 0 0;
+  box-shadow: 280px 0px 0 #F5E3B5,
+              0px 120px 0 #F5E3B5,
+              280px 120px 0 #F5E3B5;
+
+}
