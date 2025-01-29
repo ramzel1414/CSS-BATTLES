@@ -1,0 +1,28 @@
+body {
+  background: #D08825
+}
+[ver] {
+  width: 118px;
+  height: 300px;
+  background: #2D3464;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[hor] {
+  width: 400px;
+  height: 132px;
+  background: #2D3464;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[squares] {
+  width: 130px;
+  aspect-ratio: 1;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 0 278px 0 0;
+  box-shadow: 200px 0 0 #FADE8B;
+}
