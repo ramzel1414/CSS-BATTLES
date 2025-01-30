@@ -1,0 +1,49 @@
+  [circle] {
+    width: 100px;
+    height: 100px;
+    background: #4B4D88;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 50%;
+    box-shadow: 0 0 0 200PX #5AED9C
+  }
+  [oval1] {
+    width: 30px;
+    height: 60px;
+    background: #4B4D88;
+    position: absolute;
+    margin: auto;
+    inset: -190px 0 0 0;
+    border-radius: 50px;
+  }
+  [oval2] {
+    width: 30px;
+    height: 60px;
+    background: #4B4D88;
+    position: absolute;
+    margin: auto;
+    inset: -135px 135px 0 0;
+    border-radius: 50px;
+    transform: rotate(-45deg);
+  }
+  [oval3] {
+    width: 30px;
+    height: 60px;
+    background: #4B4D88;
+    position: absolute;
+    margin: auto;
+    inset: -135px -135px 0 0;
+    border-radius: 50px;
+    transform: rotate(45deg);
+  }
+  [oval4] {
+    width: 60px;
+    height: 30px;
+    background: #4B4D88;
+    position: absolute;
+    margin: auto;
+    inset: 0px 192px 0 0;
+    border-radius: 50px;
+    box-shadow: 192px 0 0 #4B4D88;
+  }
