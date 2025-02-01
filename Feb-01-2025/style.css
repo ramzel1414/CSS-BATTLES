@@ -1,0 +1,28 @@
+[tri1] {
+  width: 0px; height: 0px;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-bottom: 60px solid #DE817E;
+  position: absolute;
+  margin: auto;
+  inset: 0 160px 0 0;
+  transform: rotate(-90deg);
+}
+[tri2] {
+  width: 0px; height: 0px;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-bottom: 60px solid #EBE77E;
+  position: absolute;
+  margin: auto;
+  inset: 0 -160px 0 0;
+  transform: rotate(-90deg);
+}
+[rect] {
+  width: 160px; height: 140px;
+  position: absolute;
+  background: #DE817E;
+  margin: auto;
+  inset: 0 -60px 0 0;
+  box-shadow: 0 0 0 200px #EBE77E;
+}
