@@ -1,0 +1,29 @@
+[circle] {
+  width: 120px;
+  aspect-ratio: 1;
+  background: #46487C;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 180px 0px 0 0;
+}
+[hor] {
+  width: 280px;
+  height: 60px;
+  background: #469DBA;
+  position: absolute;
+  margin: auto;
+  inset: 0px 0 0 0;
+}
+[square] {
+  width: 60px;
+  aspect-ratio: 1;
+  background: #469DBA;
+  position: absolute;
+  margin: auto;
+  inset: -120px 220px 0 0;
+  box-shadow: 220px 120px 0 #469DBA;
+}
+body {
+  background: #EED9D9;
+}
