@@ -1,0 +1,40 @@
+[ctop1] {
+  height: 145px;
+  width: 235px;
+  background: linear-gradient(to left, #2D3464  50% ,transparent 50%);
+  border-radius: 0 0 100px 100px;
+  position: absolute;
+  margin: auto;
+  inset: -260px 0 0 0;
+}
+[ctop2] {
+  height: 85px;
+  width: 155px;
+  background: linear-gradient(to left, #D95362  50% ,transparent 50%);
+  border-radius: 0 0 100px 100px;
+  position: absolute;
+  margin: auto;
+  inset: -260px 0 0 0;
+}
+[c1] {
+  width: 85px;
+  aspect-ratio: 1;
+  background: #2D3464;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 60px 0 0 0;
+  box-shadow: 0 0 0 38px #D95362,
+              0 0 0 78px #2D3464;
+}
+[overlay] {
+  width: 85px;
+  height: 190px;
+  background: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: -130px -170px 0 0;
+}
+body {
+  background: #D95362
+}
