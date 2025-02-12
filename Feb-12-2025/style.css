@@ -1,0 +1,28 @@
+[half-circle] {
+  width: 220px;
+  height: 175px;
+  background: #7C87D1;
+  position: absolute;
+  margin: auto;
+  inset: -50px 0 0 0 ;
+  border-radius: 150px 150px 0 0;
+}
+[vertical] {
+  width: 40px;
+  height: 76px;
+  background: #343D42;
+  position: absolute;
+  margin: auto;
+  inset: -76px 0 0 0;
+}
+[horizontal] {
+  width: 220px;
+  height: 20px;
+  background: #343D42;
+  position: absolute;
+  margin: auto;
+  inset: 20px 0 0 0;
+}
+body {
+  background: #343D42;
+}
