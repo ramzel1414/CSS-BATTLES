@@ -1,0 +1,23 @@
+body {
+  background: #75CF34;
+}
+[rect] {
+  width: 120px;
+  height: 40px;
+  background: #963032;
+  position: absolute;
+  margin: auto;
+  inset: -60px 0 0 0;
+  box-shadow: 0 60px 0 #963032;
+}
+[square] {
+  width: 40px;
+  aspect-ratio: 1;
+  background: #963032;
+  position: absolute;
+  margin: auto;
+  inset: -100px 60px 0 0;
+  box-shadow: 60px 0px 0 #963032,
+              0px 100px 0 #963032,
+              60px 100px 0 #963032;
+}
