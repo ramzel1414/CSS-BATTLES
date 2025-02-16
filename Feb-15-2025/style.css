@@ -1,0 +1,27 @@
+[green] {
+  width: 200px;
+  height: 272px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[green2] {
+  width: 240px;
+  height: 100px;
+  background: #61A74E;
+  position: absolute;
+  margin: auto;
+  inset: 226px 0 0 0;
+}
+[yellow] {
+  width: 42px;
+  aspect-ratio: 1;
+  background: #FADE8B;
+  position: absolute;
+  margin: auto;
+  inset: 80px 0 0 0;
+}
+body {
+  background: #FADE8B;
+}
