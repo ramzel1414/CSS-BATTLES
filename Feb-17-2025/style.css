@@ -1,0 +1,39 @@
+[ver-out] {
+  width: 120px;
+  height: 150px;
+  background: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: 150px 0 0 0;
+  border-radius: 80px;
+}
+[ver-in] {
+  width: 60px;
+  height: 150px;
+  background: #2D3464;
+  position: absolute;
+  margin: auto;
+  inset: 210px 0 0 0;
+  border-radius: 80px;
+}
+[hor-out] {
+  width: 300px;
+  height: 130px;
+  background: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: 300px 0 0 0;
+  border-radius: 80px;
+}
+[hor-in] {
+  width: 240px;
+  height: 60px;
+  background: #2D3464;
+  position: absolute;
+  margin: auto;
+  inset: 300px 0 0 0;
+  border-radius: 80px;
+}
+body {
+  background: #2D3464;
+}
