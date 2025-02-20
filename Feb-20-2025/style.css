@@ -1,0 +1,30 @@
+[base] {
+  width: 240px;
+  height: 100px;
+  background: #9C8A39;
+  position: absolute;
+  margin: auto;
+  inset: 200px 0 0 0;
+}
+[oval-out] {
+  width: 240px;
+  height: 100px;
+  background: #FBE374;
+  position: absolute;
+  margin: auto;
+  inset: 106px 0 0 0;
+  border-radius: 50%
+}
+[oval-in] {
+  width: 180px;
+  height: 60px;
+  background: #3F4869;
+  position: absolute;
+  margin: auto;
+  inset: 80px 0 0 0;
+  border-radius: 50%
+}
+body {
+  background: #3F4869;
+}
+
