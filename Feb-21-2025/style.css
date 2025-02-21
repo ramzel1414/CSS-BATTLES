@@ -1,0 +1,29 @@
+body {
+  background: #183539;
+}
+[shape] {
+  width: 100px;
+  height: 270px;
+  background: #EBE77E;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50px 50px 0 0;
+}
+[overlay1] {
+  width: 50px;
+  aspect-ratio: 1;
+  background: #183539;
+  position: absolute;
+  margin: auto;
+  inset: 140px 100px 0 0;
+  border-radius: 50px;
+}
+[overlay2] {
+  width: 100px;
+  height: 15px;
+  background: #183539;
+  position: absolute;
+  margin: auto;
+  inset: -75px 100px 0 0;
+}
