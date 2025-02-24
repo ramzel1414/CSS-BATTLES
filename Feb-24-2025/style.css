@@ -1,0 +1,57 @@
+[moon] {
+  width: 100px;
+  height: 100px;
+  background: #D9D9D9;
+  position: absolute;
+  margin: auto;
+  inset: -50px 0 0 0;
+  border-radius: 50%;
+}
+[ocean] {
+  width: 400px;
+  height: 90px;
+  background: #328FC1;
+  position: absolute;
+  margin: auto;
+  inset: 250px 0 0 0;
+}
+[current-mid] {
+  height: 90px;
+  width: 160px;
+  background: linear-gradient(to bottom, transparent 50%, #343D42 50%);
+  position: absolute;
+  margin: auto;
+  inset: 130px 0 0 0;
+  border-radius: 50%;
+}
+
+[current-right] {
+  height: 90px;
+  width: 160px;
+  background: linear-gradient(to bottom, transparent 50%, #343D42 50%);
+  position: absolute;
+  margin: auto;
+  inset: 130px -290px 0 0;
+  border-radius: 50%;
+}
+[current-right] {
+  height: 90px;
+  width: 160px;
+  background: linear-gradient(to bottom, transparent 50%, #343D42 50%);
+  position: absolute;
+  margin: auto;
+  inset: 130px -290px 0 0;
+  border-radius: 50%;
+}
+[current-left] {
+  height: 90px;
+  width: 160px;
+  background: linear-gradient(to bottom, transparent 50%, #343D42 50%);
+  position: absolute;
+  margin: auto;
+  inset: 130px 290px 0 0;
+  border-radius: 50%;
+}
+body {
+  background: #343D42;
+}
