@@ -1,0 +1,35 @@
+[circle-out] {
+  width: 275px;
+  height: 200px;
+  background: #46BA67;
+  inset: -350px 0 0 0;
+  margin: auto;
+  position: absolute;
+  border-radius: 50%;
+}
+[circle-in] {
+  width: 200px;
+  height: 140px;
+  background: #183539;
+  inset: -350px 0 0 0;
+  margin: auto;
+  position: absolute;
+  border-radius: 50%;
+}
+[vertical] {
+  width: 100px; height: 300px;
+  background: #46BA67;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[horizontal] {
+  width: 265px; height: 30px;
+  background: #46BA67;
+  position: absolute;
+  margin: auto;
+  inset: -80px -15px 0 0;
+}
+body {
+  background: #183539;
+}
