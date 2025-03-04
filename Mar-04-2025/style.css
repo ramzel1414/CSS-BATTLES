@@ -1,0 +1,39 @@
+[rectangle] {
+  width: 400px;
+  height: 100px;
+  background: #4A9A86;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[circle] {
+  width: 170px;
+  aspect-ratio: 1;
+  background: #4A9A86;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[tri-right] {
+  width: 0; height: 0;
+  border-right: 150px solid transparent;
+  border-left: 150px solid transparent;
+  border-bottom: 120px solid #4A9A86;
+  transform: rotate(-90deg);
+  position: absolute;
+  margin: auto;
+  inset: 0px -280px 0 0;
+}
+[tri-left] {
+  border-right: 150px solid transparent;
+  border-left: 150px solid transparent;
+  border-bottom: 120px solid #4A9A86;
+  transform: rotate(90deg);
+  position: absolute;
+  margin: auto;
+  inset: 0px 280px 0 0;
+}
+body {
+  background: #EBF6F0;
+}
