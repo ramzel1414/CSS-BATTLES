@@ -1,0 +1,46 @@
+[square] {
+  width: 280px;
+  aspect-ratio: 1;
+  background: #D96E9F;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  transform: rotate(45deg);
+}
+body {
+  background: #6255AA;
+}
+[hor] {
+  width: 400px;
+  height: 60px;
+  background: #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[ver] {
+  width: 60px;
+  height: 300px;
+  background: #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[tri1] {
+  width: 20px; height: 0px;
+  border-left: solid 50px transparent;
+  border-right: solid 50px transparent;
+  border-top: solid 50px #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: -250px 0 0 0;
+}
+[tri2] {
+  width: 20px; height: 0px;
+  border-left: solid 50px transparent;
+  border-right: solid 50px transparent;
+  border-bottom: solid 50px #6255AA;
+  position: absolute;
+  margin: auto;
+  inset: 250px 0 0 0;
+}
