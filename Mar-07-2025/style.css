@@ -1,0 +1,46 @@
+body {
+  background: #ffeff7;
+}
+[blue] {
+  width: 140px;
+  height: 160px;
+  background: #226AA9;
+  position: absolute;
+  margin: auto;
+  inset: 0 260px 0 0;
+}
+[brown] {
+  width: 0; height: 0;
+  border-left: 85px solid transparent;
+  border-right: 85px solid transparent;
+  border-bottom: 120px solid #DEB467;
+  position: absolute;
+  margin: auto;
+  inset: 0px 00px 0 0;
+  transform: rotate(90deg);
+}
+[circle] {
+  width: 52px;
+  height: 62px;
+  background: #000000;
+  position: absolute;
+  margin: auto;
+  inset: 0 -60px 0 0;
+  border-radius: 50%;
+}
+[cover-top] {
+  width: 100px; height: 50px;
+  background: #FFEFF7;
+  position: absolute;
+  margin: auto;
+  inset: -80px -80px 0 0;
+  transform: rotate(40deg);
+}
+[cover-bot] {
+  width: 100px; height: 50px;
+  background: #FFEFF7;
+  position: absolute;
+  margin: auto;
+  inset: 80px -80px 0 0;
+  transform: rotate(-40deg);
+}
