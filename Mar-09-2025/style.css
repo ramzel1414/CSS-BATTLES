@@ -1,0 +1,56 @@
+body {
+  background: #C12E33;
+}
+[ver] {
+  width: 40px;
+  height: 300px;
+  background: #323130;
+  position: absolute;
+  margin: auto;
+  inset: 0 200px 0 0;
+  box-shadow: 200px 0 #323130;
+}
+[tri-left] {
+  width: 0px;
+  height: 0px;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-bottom: 120px solid #323130;
+  position: absolute;
+  margin: auto;
+  inset: -140px 120px 0 0;
+  transform: rotate(90deg);
+}
+[tri-left-in] {
+  width: 0px;
+  height: 0px;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 80px solid #C12E33;
+  position: absolute;
+  margin: auto;
+  inset: -140px 160px 0 0;
+  transform: rotate(90deg);
+}
+[tri-right] {
+  width: 0px;
+  height: 0px;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-bottom: 120px solid #323130;
+  position: absolute;
+  margin: auto;
+  inset: -140px -120px 0 0;
+  transform: rotate(-90deg);
+}
+[tri-right-in] {
+  width: 0px;
+  height: 0px;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 80px solid #C12E33;
+  position: absolute;
+  margin: auto;
+  inset: -140px -160px 0 0;
+  transform: rotate(-90deg);
+}
