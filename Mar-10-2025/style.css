@@ -1,0 +1,22 @@
+body {
+  background: #F58220;
+}
+[sides] {
+  width: 60px;
+  height: 160px;
+  background: #FFFFFF;
+  transform: skew(-20deg);
+  position: absolute;
+  margin: auto;
+  inset: 0 120px 0 0;
+  box-shadow: 120px 0 0 #FFFFFF;
+}
+[center] {
+  width: 80px;
+  height: 20px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+
