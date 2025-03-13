@@ -1,0 +1,28 @@
+[center] {
+  width: 400px;
+  height: 80px;
+  background: #00B0C8;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[y] {
+  width: 160px;
+  height: 80px;
+  background: #00B0C8;
+  position: absolute;
+  margin: auto;
+  inset: -220px 0 0 0;
+  box-shadow: 0 220px 0 #00B0C8;
+}
+body {
+  background: #323130;
+}
+[in] {
+  width: 80px;
+  height: 40px;
+  background: #323130;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
