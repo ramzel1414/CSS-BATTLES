@@ -1,0 +1,40 @@
+[out-circle] {
+  width: 240px;
+  aspect-ratio: 1;
+  background: #5A9F48;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0 -200px 0 0; 
+  box-shadow: -200px 0 0 #5A9F48;
+}
+[in-circle] {
+  width: 160px;
+  aspect-ratio: 1;
+  background: #BFE33A;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0 -200px 0 0; 
+  box-shadow: -200px 0 0 #BFE33A;
+}
+[hor] {
+  width: 400px;
+  height: 30px;
+  background: #BFE33A;
+  position: absolute;
+  margin: auto;
+  inset: 0; 
+}
+[ver] {
+  height: 400px;
+  width: 30px;
+  background: #BFE33A;
+  position: absolute;
+  margin: auto;
+  inset: 0 200px 0 0;
+  box-shadow: 200px 0 0 #BFE33A;
+}
+body {
+  background: #BFE33A;
+}
