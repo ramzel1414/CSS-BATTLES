@@ -1,0 +1,23 @@
+[out] {
+  width: 140px;
+  height: 212px;
+  background: #31798F;
+  position: absolute;
+  margin: auto;
+  inset: 0 100px 0 0;
+  border-radius: 150px 150px 0 0;
+  box-shadow: 100px 0 0 #31798F;
+}
+[in] {
+  width: 60px;
+  height: 170px;
+  background: #FFE8BD;
+  position: absolute;
+  margin: auto;
+  inset: 40px 100px 0 0;
+  border-radius: 100px 100px 0 0;
+  box-shadow: 100px 0 0 #FFE8BD;
+}
+body{
+    background: #FFE8BD;
+  } 
