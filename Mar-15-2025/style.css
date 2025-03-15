@@ -1,0 +1,21 @@
+body {
+  background: #4F77FF;
+}
+[circle] {
+  width: 132px;
+  height: 132px;
+  background: #4F77FF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 30px #FFFFFF;
+}
+[rect] {
+  width: 256px;
+  height: 30px;
+  background: #FFF;
+  position: absolute;
+  margin: auto;
+  inset: 160px 0 0 0;
+}
