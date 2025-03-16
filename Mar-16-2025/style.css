@@ -1,0 +1,23 @@
+body {
+  background: #EAC049;
+}
+[s1] {
+  width: 140px;
+  height: 140px;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #51A499;
+}
+[s2] {
+  width: 40px;
+  height: 40px;
+  background: #51A499;
+  position: absolute;
+  margin: auto;
+  inset: -180px 180px 0 0;
+  box-shadow: 180px 0 #51A499,
+              180px 180px #51A499,
+              0px 180px #51A499;
+}
