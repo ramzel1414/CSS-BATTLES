@@ -1,0 +1,34 @@
+body {
+  background: #EAC049
+}
+[mid] {
+  width: 140px;
+  aspect-ratio: 1;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #51A499;
+}
+[corner-in] {
+  width: 20px;
+  aspect-ratio: 1;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: -200px 200px 0 0;
+  box-shadow: 200px 0 0 0px #EAC049,
+              200px 200px 0 0px #EAC049,
+              0 200px 0 0px #EAC049;
+}
+[corner-out] {
+  width: 60px;
+  aspect-ratio: 1;
+  background: #51A499;
+  position: absolute;
+  margin: auto;
+  inset: -200px 200px 0 0;
+  box-shadow: 200px 0 0 0px #51A499,
+              200px 200px 0 0px #51A499,
+              0 200px 0 0px #51A499;
+}
