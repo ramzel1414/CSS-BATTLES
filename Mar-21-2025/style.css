@@ -1,0 +1,21 @@
+[tri] {
+  width: 0; height: 0;
+  border-left: 150px solid transparent;
+  border-right: 150px solid transparent;
+  border-bottom: 120px solid #1A353C;
+  position: absolute;
+  margin: auto;
+  inset: -60px 0 0 0;
+}
+[rect] {
+  width: 40px; height: 120px;
+  background: #31798F;
+  position: absolute;
+  margin: auto;
+  inset: 180px 200px 0 0;
+  box-shadow: 100px 0 0 #31798F,
+              200px 0 0 #31798F;
+}
+body {
+  background: #A9FFFC;
+}
