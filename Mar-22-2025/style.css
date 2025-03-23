@@ -1,0 +1,31 @@
+body {
+  background: #FADE8B;
+}
+[up] {
+  width: 120px; height: 10;
+  border-left: 70px solid transparent; 
+  border-right: 70px solid transparent;
+  border-bottom: 50px solid #E3516E;
+  position: absolute;
+  margin: auto;
+  inset: -100px 0 0 0;
+}
+[down] {
+  width: 120px; height: 10;
+  border-left: 70px solid transparent; 
+  border-right: 70px solid transparent;
+  border-top: 50px solid #E3516E;
+  position: absolute;
+  margin: auto;
+  inset: 100px 0 0 0;
+}
+[circle] {
+  width: 40px;
+  aspect-ratio: 1;
+  background: #E3516E;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 30px #FADE8B;
+}
