@@ -1,0 +1,36 @@
+body {
+  background: #2D3464;
+}
+[over] {
+  width: 32px;
+  height: 80px;
+  background: #2D3464;
+  position: absolute;
+  margin: auto;
+  inset: 140px 0 0 0;
+}
+[top] {
+  width: 32px;
+  height: 80px;
+  background: #DAB897;
+  position: absolute;
+  margin: auto;
+  inset: 20px 0 0 0;
+}
+[mid] {
+  width: 190px;
+  height: 70px;
+  background: #DAB897;
+  position: absolute;
+  margin: auto;
+  inset: 170px 0 0 0;
+  border-radius: 100px 100px 0 0;
+}
+[bot] {
+  width: 100px;
+  height: 40px;
+  background: #DAB897;
+  position: absolute;
+  margin: auto;
+  inset: 260px 0 0 0;
+}
