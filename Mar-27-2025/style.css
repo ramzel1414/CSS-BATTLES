@@ -1,0 +1,58 @@
+body {
+  background: #282828;
+}
+[head] {
+  width: 140px;
+  aspect-ratio: 1;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 14%;
+}
+[beak] {
+  width: 0px; height: 0px;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 40px solid #F2A73B;
+  position: absolute;
+  margin: auto;
+  inset: 0 -180px 0 0;
+  transform: rotate(90deg);
+}
+[eye] {
+  width: 15px;
+  height: 30px;
+  background: #282828;
+  position: absolute;
+  margin: auto;
+  inset: -50px -84px 0 0;
+  border-radius: 100%;
+}
+[gaff1] {
+  width: 10px;
+  aspect-ratio: 1;
+  background: #EA3323;
+  position: absolute;
+  margin: auto;
+  inset: -140px 70px 0 0;
+  border-radius: 100%;
+}
+[gaff2] {
+  width: 20px;
+  aspect-ratio: 1;
+  background: #EA3323;
+  position: absolute;
+  margin: auto;
+  inset: -140px 20px 0 0;
+  border-radius: 100%;
+}
+[gaff3] {
+  width: 30px;
+  aspect-ratio: 1;
+  background: #EA3323;
+  position: absolute;
+  margin: auto;
+  inset: -140px -50px 0 0;
+  border-radius: 100%;
+}
