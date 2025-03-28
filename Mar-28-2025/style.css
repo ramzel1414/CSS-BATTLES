@@ -1,0 +1,18 @@
+[box] {
+  width: 100px;
+  height: 100px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #1A353C,
+              0 0 0 200px #00B0C8; 
+}
+[line] {
+  width: 300px;
+  height: 20px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
