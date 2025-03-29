@@ -1,0 +1,40 @@
+[rect] {
+  width: 280px;
+  height:180px;
+  background: #6592CF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[over] {
+  width: 180px;
+  height:80px;
+  background: #FFFFCD;
+  position: absolute;
+  margin: auto;
+  inset: -190px -280px 0 0;
+  transform: rotate(45deg);
+}
+[under] {
+  width: 100px;
+  height:80px;
+  background: #FFFFCD;
+  position: absolute;
+  margin: auto;
+  inset: 190px 280px 0 0;
+  transform: rotate(45deg);
+}
+[top] {
+  width: 100px;
+  aspect-ratio: 1;
+  background: #6592CF;
+  position: absolute;
+  margin: auto;
+  inset: -290px -380px 0 0;
+  border-radius: 50%;
+  box-shadow: -380px 290px 0 #6592CF;
+
+}
+body {
+  background: #FFFFCD;
+}
