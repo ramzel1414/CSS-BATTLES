@@ -1,0 +1,35 @@
+body {
+  background: #E25C57;
+}
+[first] {
+  width: 25px;
+  height: 26px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 75px 106px 0 0;
+}
+[second] {
+  width: 25px;
+  height: 50px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 50px 35px 0 0;
+}
+[third] {
+  width: 25px;
+  height: 75px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 24px -35px 0 0;
+}
+[fourth] {
+  width: 25px;
+  height: 100px;
+  background: #EDDF5A;
+  position: absolute;
+  margin: auto;
+  inset: 0px -106px 0 0;
+}
