@@ -1,0 +1,20 @@
+body {
+  background: #51A499;
+}
+[mid] {
+  width: 180px;
+  height: 180px;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: 0 -240px 0 0;
+}
+[x] {
+  width: 230px;
+  height: 60px;
+  background: #EAC049;
+  position: absolute;
+  margin: auto;
+  inset: -240px 180px 0 0;
+  box-shadow: 0 240px 0 #EAC049;
+}
