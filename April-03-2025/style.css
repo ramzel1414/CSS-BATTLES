@@ -1,0 +1,30 @@
+body {
+  background: #F5E3B5;
+}
+[rect] {
+  width: 160px;
+  height: 120px;
+  background: #469DBA;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
+[circle] {
+  width: 80px;
+  aspect-ratio: 1;
+  background: #F5E3B5;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: -0px -160px 0 0;
+  box-shadow: -160px 0 0 #469DBA;
+}
+[oval] {
+  width: 150px;
+  height: 40px;
+  background: #469DBA;
+  border-radius: 50px;
+  position: absolute;
+  margin: auto;
+  inset: -0px -270px 0 0;
+}
