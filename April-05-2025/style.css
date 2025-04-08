@@ -1,0 +1,39 @@
+[circle] {
+  width: 150px;
+  height: 150px;
+  background: #DE6B67;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+}
+[dia] {
+  width: 20px;
+  height: 20px;
+  background: #E8AD6D;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  transform: rotate(45deg);
+}
+[left] {
+  width: 200px;
+  height: 20px;
+  background: #DE6B67;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  transform: rotate(45deg);
+}
+[right] {
+  width: 200px;
+  height: 20px;
+  background: #DE6B67;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  transform: rotate(-45deg);
+}
+body {
+  background: #e8ad6d;
+}
