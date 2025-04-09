@@ -1,0 +1,27 @@
+[rect] {
+  width: 260px;
+  height: 100px;
+  background: #F58220;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: 0 0 0 20px #FFFFFF,
+              0 0 0 150px #F58220;;
+}
+[dia] {
+  width: 180px;
+  aspect-ratio: 1;
+  background: #F58220;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  transform: rotate(45deg);
+}
+[rect2] {
+  width: 260px;
+  height: 20px;
+  background: #FFFFFF;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+}
