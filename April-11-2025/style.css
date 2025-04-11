@@ -1,0 +1,35 @@
+[front] {
+  width: 100px;
+  height: 140px;
+  background: #8D424D;
+  position: absolute;
+  margin: auto;
+  inset: 0 90px 0 0;
+  border-radius: 50px 50px 0 0
+}
+[case] {
+  width: 190px;
+  height: 140px;
+  background: #D96C7B;
+  position: absolute;
+  margin: auto;
+  inset: 0 0px 0 0;
+  border-radius: 50px 50px 0 0
+}
+[pole-front] {
+  width: 10px; height: 100px;
+  background: #8D424D;
+  position: absolute;
+  margin: auto;
+  inset: 200px -78px 0 0;
+}
+[pole-back] {
+  width: 30px; height: 100px;
+  background: #D96C7B;
+  position: absolute;
+  margin: auto;
+  inset: 200px -98px 0 0;
+}
+body {
+  background: #A4C5BD
+}
