@@ -1,0 +1,29 @@
+  [hor] {
+    width: 280px;
+    height: 120px;
+    background: #4FC1AD;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0 0 0 40px #4C455B,
+                0 0 0 200px #4FC1AD;
+  }
+  [ver] {
+    width: 40px;
+    height: 250px;
+    background: #4C455B;
+    position: absolute;
+    margin: auto;
+    inset: -50px 160px 0 0 ;
+    box-shadow: 160px 0 0 #4C455B;
+  }
+  [box] {
+    width: 40px;
+    height: 40px;
+    background: #4FC1AD;
+    position: absolute;
+    margin: auto;
+    inset: -160px 160px 0 0 ;
+    box-shadow: 160px 0 0 #4FC1AD;
+  }
+
