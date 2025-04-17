@@ -1,0 +1,39 @@
+[first] {
+  width: 120px;
+  height: 120px;
+  background: #FFFFFF;
+  border-radius: 150px 0 0 0;
+  position: absolute;
+  margin: auto;
+  inset: -120px 120px 0 0;
+}
+[second] {
+  width: 80px;
+  height: 80px;
+  background: #FFFFFF;
+  border-radius: 0 150px 0 0;
+  position: absolute;
+  margin: auto;
+  inset: -80px -80px 0 0;
+}
+[third] {
+  width: 40px;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 0 0 150px  0;
+  position: absolute;
+  margin: auto;
+  inset: 40px -40px 0 0;
+}
+[fourth] {
+  width: 20px;
+  height: 20px;
+  background: #FFFFFF;
+  border-radius: 0 0 0 150px;
+  position: absolute;
+  margin: auto;
+  inset: 20px 20px 0 0;
+}
+body {
+  background: #D96C7B;
+}
