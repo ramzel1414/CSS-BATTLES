@@ -1,0 +1,28 @@
+[circle] {
+  width: 160px;
+  aspect-ratio: 1;
+  background: linear-gradient(to bottom, #D96C7B 50%, #8AB8B6 50%);
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 200px #4C455B;
+}
+[rect] {
+  width: 120px;
+  height: 60px;
+  background: #D96C7B;
+  position: absolute;
+  margin: auto;
+  inset: -180px 300px 0 0;
+  box-shadow: 280px 180px 0 #8AB8B6;
+}
+[box] {
+  width: 60px;
+  height: 60px;
+  background: #D96C7B;
+  position: absolute;
+  margin: auto;
+  inset: -60px 220px 0 0;
+  box-shadow: 220px 60px 0 #8AB8B6;
+}

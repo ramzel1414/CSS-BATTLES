@@ -1,0 +1,22 @@
+[tri] {
+  width: 0px; height: 0px;
+  border-left: 129px solid transparent;
+  border-right: 129px solid transparent;
+  border-top: 100px solid #2A2753;
+  position: absolute;
+  margin: auto;
+  inset: 0
+}
+[over] {
+  width: 30px; 
+  height: 100px;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  background: #5A9F48;
+  box-shadow: 70px 0 0 #5A9F48,
+              -70px 0 0 #5A9F48;
+}
+body {
+  background: #5A9F48;
+}
