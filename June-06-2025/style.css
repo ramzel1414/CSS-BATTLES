@@ -1,0 +1,34 @@
+body {
+  background: #2D3464;
+}
+[circle] {
+  width: 50px;
+  aspect-ratio: 1;
+  background: #C0D6E7;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  box-shadow: -70px -70px 0 #C0D6E7,
+              70px -70px 0 #C0D6E7,
+              70px 70px 0 #C0D6E7,
+              -70px 70px 0 #C0D6E7;
+}
+[rectangle] {
+  width: 155px;
+  height: 50px;
+  background: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: 0 245px 0 0;
+  box-shadow: 245px 0 0 #D95362;
+}
+[square] {
+  width: 50px;
+  aspect-ratio: 1;
+  background: #D95362;
+  position: absolute;
+  margin: auto;
+  inset: 140px 0 0 0;
+  box-shadow: 0px -140px 0 #D95362
+}
